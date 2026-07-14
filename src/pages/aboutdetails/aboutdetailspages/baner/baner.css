@@ -1,0 +1,60 @@
+.promise {
+	padding-bottom: 50px;
+}
+
+.promise__box {
+	background: #1b2233;
+	border-radius: 20px;
+	padding: 44px 48px;
+	display: flex;
+	gap: 32px;
+	align-items: center;
+	color: #fff;
+}
+
+.promise__icon {
+	width: 60px;
+	height: 60px;
+	flex-shrink: 0;
+	color: #d9b77e;
+	font-size: 32px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.promise__title {
+	font-size: 24px;
+	line-height: 1.4;
+	font-weight: 700;
+	margin: 0 0 14px;
+}
+
+.promise__title span {
+	color: #d9b77e;
+}
+
+.promise__description {
+	font-size: 14px;
+	line-height: 1.7;
+	color: #c8cbd6;
+	max-width: 640px;
+	margin: 0;
+}
+@media (max-width: 980px) {
+	.promise__box {
+		flex-direction: column;
+		text-align: center;
+		padding: 32px;
+	}
+}
+
+@media (max-width: 560px) {
+	.container {
+		padding: 0 18px;
+	}
+
+	.promise__title {
+		font-size: 19px;
+	}
+}

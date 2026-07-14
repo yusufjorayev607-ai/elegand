@@ -1,0 +1,691 @@
+{
+	"header": {
+		"about": "关于我们",
+		"services": "服务",
+		"portfolio": "作品集",
+		"contact": "联系我们"
+	},
+	"hero": {
+		"title": "我们为您的企业生产定制服装",
+		"description": "Aysel Energy、CY-90、DreamLevel、SHUMBOLA、施耐德电气、Zmart、Artel 等大型企业值得信赖的合作伙伴",
+		"orderBtn": "立即下单",
+		"portfolioBtn": "查看作品集"
+	},
+	"partners": {
+		"title": "信赖我们的合作伙伴"
+	},
+	"services": {
+		"title": "我们的服务",
+		"workwear": {
+			"title": "工作服",
+			"description": "适用于工厂、建筑和生产企业。"
+		},
+		"corporate": {
+			"title": "企业服装",
+			"description": "适用于办公室和服务人员。"
+		},
+		"custom": {
+			"title": "定制订单",
+			"description": "根据客户样品缝制。"
+		},
+		"mass-production": {
+			"title": "批量生产",
+			"description": "适用于大批量订单。"
+		}
+	},
+	"portfolio": {
+		"1": {
+			"title": "工作服",
+			"description": "为工厂和生产企业定制缝制的工作服。",
+			"material": "棉涤混纺",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"2": {
+			"title": "建筑工作服",
+			"description": "适用于建筑工地的耐用工作服。",
+			"material": "高密度面料",
+			"color": "深橙色",
+			"season": "全季节"
+		},
+		"3": {
+			"title": "企业制服",
+			"description": "适用于办公室和服务人员的制服。",
+			"material": "高级西装面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"4": {
+			"title": "焊工服",
+			"description": "用于焊接作业的防护服。",
+			"material": "耐热面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"5": {
+			"title": "电工服",
+			"description": "用于电气安装作业的安全服。",
+			"material": "绝缘面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"6": {
+			"title": "仓库制服",
+			"description": "适用于物流和仓库员工。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"7": {
+			"title": "餐厅制服",
+			"description": "适用于厨师和服务人员。",
+			"material": "轻质棉",
+			"color": "白色",
+			"season": "全季节"
+		},
+		"8": {
+			"title": "前台制服",
+			"description": "适用于前台员工的现代制服。",
+			"material": "高级面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"9": {
+			"title": "冬季工作服",
+			"description": "适用于寒冷天气的特殊制服。",
+			"material": "保暖面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"10": {
+			"title": "夏季工作服",
+			"description": "适用于炎热天气的轻便制服。",
+			"material": "透气面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"11": {
+			"title": "高可视警示服",
+			"description": "高能见度的特殊服装。",
+			"material": "反光面料",
+			"color": "黄色",
+			"season": "全季节"
+		},
+		"12": {
+			"title": "工程师制服",
+			"description": "适用于工程师和技术人员。",
+			"material": "高级混纺面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"13": {
+			"title": "定制订单 1",
+			"description": "根据客户要求生产的制服。",
+			"material": "个性化选择",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"14": {
+			"title": "定制订单 2",
+			"description": "根据企业订单缝制。",
+			"material": "高级面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"15": {
+			"title": "定制订单 3",
+			"description": "根据独家设计缝制。",
+			"material": "高级面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"16": {
+			"title": "连体工作服",
+			"description": "适用于生产企业的连体服。",
+			"material": "耐用面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"17": {
+			"title": "石油天然气工作服",
+			"description": "适用于石油和天然气行业的特殊制服。",
+			"material": "阻燃面料",
+			"color": "红色",
+			"season": "全季节"
+		},
+		"18": {
+			"title": "技术人员制服",
+			"description": "适用于技术服务专家。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"19": {
+			"title": "服务人员制服",
+			"description": "适用于服务中心的专业制服。",
+			"material": "轻质面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"20": {
+			"title": "保安制服",
+			"description": "适用于安保服务的特殊制服。",
+			"material": "耐用面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"21": {
+			"title": "仓储制服",
+			"description": "适用于仓储和物流中心的制服。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"22": {
+			"title": "生产制服",
+			"description": "适用于大型生产企业的制服。",
+			"material": "棉涤",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"23": {
+			"title": "高级制服",
+			"description": "适用于高端市场的特殊制服。",
+			"material": "高级面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"24": {
+			"title": "品牌制服",
+			"description": "印有公司标志的制服。",
+			"material": "高级面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"25": {
+			"material": "面料",
+			"season": "季节",
+			"color": "颜色"
+		},
+		"26": {
+			"title": "工作服",
+			"description": "为工厂和生产企业定制缝制的工作服。",
+			"material": "棉涤混纺",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"27": {
+			"title": "建筑工作服",
+			"description": "适用于建筑工地的耐用工作服。",
+			"material": "高密度面料",
+			"color": "深橙色",
+			"season": "全季节"
+		},
+		"28": {
+			"title": "企业制服",
+			"description": "适用于办公室和服务人员的制服。",
+			"material": "高级西装面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"29": {
+			"title": "焊工服",
+			"description": "用于焊接作业的防护服。",
+			"material": "耐热面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"30": {
+			"title": "电工服",
+			"description": "用于电气安装作业的安全服。",
+			"material": "绝缘面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"31": {
+			"title": "仓库制服",
+			"description": "适用于物流和仓库员工。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"32": {
+			"title": "餐厅制服",
+			"description": "适用于厨师和服务人员。",
+			"material": "轻质棉",
+			"color": "白色",
+			"season": "全季节"
+		},
+		"33": {
+			"title": "前台制服",
+			"description": "适用于前台员工的现代制服。",
+			"material": "高级面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"34": {
+			"title": "冬季工作服",
+			"description": "适用于寒冷天气的特殊制服。",
+			"material": "保暖面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"35": {
+			"title": "夏季工作服",
+			"description": "适用于炎热天气的轻便制服。",
+			"material": "透气面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"36": {
+			"title": "高可视警示服",
+			"description": "高能见度的特殊服装。",
+			"material": "反光面料",
+			"color": "黄色",
+			"season": "全季节"
+		},
+		"37": {
+			"title": "工程师制服",
+			"description": "适用于工程师和技术人员。",
+			"material": "高级混纺面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"38": {
+			"title": "定制订单 1",
+			"description": "根据客户要求生产的制服。",
+			"material": "个性化选择",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"39": {
+			"title": "定制订单 2",
+			"description": "根据企业订单缝制。",
+			"material": "高级面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"40": {
+			"title": "定制订单 3",
+			"description": "根据独家设计缝制。",
+			"material": "高级面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"41": {
+			"title": "连体工作服",
+			"description": "适用于生产企业的连体服。",
+			"material": "耐用面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"42": {
+			"title": "石油天然气工作服",
+			"description": "适用于石油和天然气行业的特殊制服。",
+			"material": "阻燃面料",
+			"color": "红色",
+			"season": "全季节"
+		},
+		"43": {
+			"title": "技术人员制服",
+			"description": "适用于技术服务专家。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"44": {
+			"title": "服务人员制服",
+			"description": "适用于服务中心的专业制服。",
+			"material": "轻质面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"45": {
+			"title": "保安制服",
+			"description": "适用于安保服务的特殊制服。",
+			"material": "耐用面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"46": {
+			"title": "仓储制服",
+			"description": "适用于仓储和物流中心的制服。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"47": {
+			"title": "生产制服",
+			"description": "适用于大型生产企业的制服。",
+			"material": "棉涤",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"48": {
+			"title": "高级制服",
+			"description": "适用于高端市场的特殊制服。",
+			"material": "高级面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"49": {
+			"title": "品牌制服",
+			"description": "印有公司标志的制服。",
+			"material": "高级面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"50": {
+			"title": "定制订单 2",
+			"description": "根据企业订单缝制。",
+			"material": "高级面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"51": {
+			"title": "定制订单 3",
+			"description": "根据独家设计缝制。",
+			"material": "高级面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"52": {
+			"title": "连体工作服",
+			"description": "适用于生产企业的连体服。",
+			"material": "耐用面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"53": {
+			"title": "石油天然气工作服",
+			"description": "适用于石油和天然气行业的特殊制服。",
+			"material": "阻燃面料",
+			"color": "红色",
+			"season": "全季节"
+		},
+		"54": {
+			"title": "技术人员制服",
+			"description": "适用于技术服务专家。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"55": {
+			"title": "服务人员制服",
+			"description": "适用于服务中心的专业制服。",
+			"material": "轻质面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"56": {
+			"title": "保安制服",
+			"description": "适用于安保服务的特殊制服。",
+			"material": "耐用面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"57": {
+			"title": "仓储制服",
+			"description": "适用于仓储和物流中心的制服。",
+			"material": "聚酯纤维",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"58": {
+			"title": "生产制服",
+			"description": "适用于大型生产企业的制服。",
+			"material": "棉涤",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"59": {
+			"title": "高级制服",
+			"description": "适用于高端市场的特殊制服。",
+			"material": "高级面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"60": {
+			"title": "品牌制服",
+			"description": "印有公司标志的制服。",
+			"material": "高级面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"labels": {
+			"material": "面料",
+			"season": "季节",
+			"color": "颜色"
+		},
+		"title": "作品集",
+		"partfolioPageTitle": "查看我们的所有作品"
+	},
+	"portfolioPage": {
+		"title": "作品集",
+		"backBtn": "返回",
+		"categories": {
+			"summer": "夏季服装",
+			"winter": "冬季服装",
+			"shoes": "鞋类",
+			"protection": "防护用品",
+			"mass": "批量服装"
+		}
+	},
+	"about": {
+		"label": "关于我们",
+		"title": "基于经验与品质的生产",
+		"description": "我们公司专注于生产企业工作服、特种服装及定制订单。",
+		"features": {
+			"quality": "优质面料",
+			"specialists": "经验丰富的专家",
+			"delivery": "准时交付",
+			"approach": "个性化服务"
+		},
+		"button": "了解更多"
+	},
+	"contact": {
+		"title": "联系方式",
+		"phone": {
+			"title": "电话",
+			"info": "周一至周六\n09:00–19:00"
+		},
+		"telegram": {
+			"title": "Telegram",
+			"info": "快速回复"
+		},
+		"email": {
+			"title": "电子邮箱",
+			"info": "24小时内回复"
+		},
+		"address": {
+			"title": "地址",
+			"city": "塔什干市",
+			"district": "沙伊汉塔胡尔区"
+		}
+	},
+	"form": {
+		"name": "您的姓名 *",
+		"company": "公司名称 *",
+		"selectProduct": "您需要什么产品?",
+		"phone": "+998 90 123 45 67",
+		"send": "发送",
+		"sending": "发送中...",
+		"successTitle": "发送成功!",
+		"successText": "我们将尽快与您联系。",
+		"newRequest": "新申请",
+		"error": "发生错误,请重试。",
+		"products": {
+			"workwear": "工作服",
+			"corporate": "企业制服",
+			"custom": "定制订单",
+			"mass": "批量服装"
+		},
+		"errors": {
+			"name": "请输入您的姓名",
+			"company": "请输入公司名称",
+			"product": "请选择产品类型",
+			"phone": "请输入电话号码",
+			"phoneFormat": "格式:+998 90 123 45 67 或 90 123 45 67"
+		}
+	},
+	"telegram": {
+		"title": "新申请",
+		"name": "姓名",
+		"company": "公司",
+		"product": "产品",
+		"phone": "电话"
+	},
+	"aboutDetailsHero": {
+		"eyebrow": "品质—信任—责任",
+		"title": {
+			"line1": "优质缝制。",
+			"line2": "可靠的合作。"
+		},
+		"description": "每一份订单背后都承载着巨大的责任。对我们而言,品质不仅仅是缝制,更是客户对我们的信任。",
+		"features": {
+			"quality": {
+				"title": "品质保证",
+				"description": "每件产品均经过质量检验"
+			},
+			"responsibility": {
+				"title": "负责任的态度",
+				"description": "我们把您的订单当作自己的事业来对待"
+			},
+			"partnership": {
+				"title": "可靠的合作伙伴",
+				"description": "我们对交期和品质信守承诺"
+			}
+		},
+		"video": {
+			"alt": "生产流程",
+			"text": "我们的生产流程"
+		}
+	},
+	"promise": {
+		"title": {
+			"line1": "我们不仅提供优质产品,",
+			"line2": "更提供信任与安心。"
+		},
+		"description": "当客户信任我们时,我们会做得更好。您的成功就是我们最大的目标。"
+	},
+	"values": {
+		"eyebrow": "我们的价值观",
+		"title": "我们与众不同的地方。",
+		"cards": {
+			"quality": {
+				"title": "品质",
+				"description": "优质材料与精湛缝制——我们的标准。"
+			},
+			"trust": {
+				"title": "信任",
+				"description": "每一份订单都是对我们的信任。我们珍视这份信任。"
+			},
+			"time": {
+				"title": "时效",
+				"description": "时间就是金钱。因此我们始终按时交付。"
+			},
+			"precision": {
+				"title": "精准",
+				"description": "每个细节的精准与细致——是完美成果的保证。"
+			}
+		}
+	},
+	"whyUs": {
+		"eyebrow": "为什么选择我们?",
+		"title": "我们只为您选择最好的。",
+		"cards": {
+			"materials": {
+				"title": "优质材料",
+				"description": "我们只使用经过测试和认证的材料。"
+			},
+			"equipment": {
+				"title": "现代化设备",
+				"description": "借助最新技术设备实现精准优质的生产。"
+			},
+			"team": {
+				"title": "经验丰富的团队",
+				"description": "我们与拥有10年以上经验的专家团队合作。"
+			},
+			"quality": {
+				"title": "质量控制",
+				"description": "每件产品都要经过多阶段质量检验。"
+			},
+			"delivery": {
+				"title": "准时交付",
+				"description": "在约定期限内安全可靠地交付。"
+			},
+			"approach": {
+				"title": "个性化方案",
+				"description": "根据每位客户的需求提供独特的解决方案。"
+			}
+		}
+	},
+	"testimonials": {
+		"eyebrow": "客户评价",
+		"title": "他们信赖我们。",
+		"items": {
+			"1": {
+				"name": "Asil Textile",
+				"company": "采购部负责人",
+				"text": "我们的订单按时完成,质量非常好。与团队合作非常愉快且高效。"
+			},
+			"2": {
+				"name": "Modern Wear",
+				"company": "总监",
+				"text": "品质、精准与责任感——我们在Details团队身上都找到了。总是超出我们的预期。"
+			},
+			"3": {
+				"name": "Elegant Boutique",
+				"company": "采购经理",
+				"text": "服装质量非常出色。他们对每个细节的关注令我们印象深刻。"
+			},
+			"4": {
+				"name": "Urban Style",
+				"company": "品牌所有者",
+				"text": "值得长期合作的可靠且负责任的制造商。强烈推荐!"
+			}
+		}
+	},
+	"faq": {
+		"eyebrow": "常见问题",
+		"title": "有疑问吗?",
+		"items": {
+			"1": {
+				"question": "最低起订量是多少?",
+				"answer": "订购数量根据产品类型而定。详情请联系我们。"
+			},
+			"2": {
+				"question": "订单需要多长时间才能完成?",
+				"answer": "这取决于产品类型和数量。生产周期通常提前商定。"
+			},
+			"3": {
+				"question": "您能按照我自己的设计缝制吗?",
+				"answer": "是的。我们根据您的设计、尺寸和要求生产产品。"
+			},
+			"4": {
+				"question": "您也提供配送服务吗?",
+				"answer": "是的。我们会将订单可靠地送达约定地址。"
+			},
+			"5": {
+				"question": "质量是如何把控的?",
+				"answer": "每件产品都会在生产的多个阶段接受检查并经过最终质检。"
+			}
+		},
+		"cta": {
+			"title": "让我们携手实现您的项目。",
+			"description": "凭借我们的经验和优质生产,您的创意将变为完美的产品。",
+			"order": "立即下单",
+			"telegram": "通过Telegram联系"
+		}
+	},
+	"seo": {
+		"home": {
+			"title": "定制工作服生产 | Uniforma",
+			"description": "我们为企业生产优质的定制工作服、制服和企业服装。"
+		},
+		"portfolio": {
+			"title": "作品集 | Uniforma",
+			"description": "了解我们生产的定制工作服和制服项目。"
+		}
+	}
+}

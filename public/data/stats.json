@@ -1,0 +1,24 @@
+{
+	"stats": [
+		{
+			"value": "100+",
+			"id": 1,
+			"icon": "/icons/briefcase.svg"
+		},
+		{
+			"value": "5000+",
+			"id": 2,
+			"icon": "/icons/shirt.svg"
+		},
+		{
+			"value": "20+",
+			"id": 3,
+			"icon": "/icons/users.svg"
+		},
+		{
+			"value": "98%",
+			"id": 4,
+			"icon": "/icons/star.svg"
+		}
+	]
+}

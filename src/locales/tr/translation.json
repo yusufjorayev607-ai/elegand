@@ -1,0 +1,691 @@
+{
+	"header": {
+		"about": "HAKKIMIZDA",
+		"services": "HİZMETLER",
+		"portfolio": "PORTFÖY",
+		"contact": "İLETİŞİM"
+	},
+	"hero": {
+		"title": "İşletmeniz için özel kıyafetler üretiyoruz",
+		"description": "Aysel Energy, CY-90, DreamLevel, SHUMBOLA, Schneider Electric, Zmart, Artel ve diğer büyük şirketlerin güvenilir iş ortağı",
+		"orderBtn": "SİPARİŞ VER",
+		"portfolioBtn": "PORTFÖYÜ GÖRÜNTÜLE"
+	},
+	"partners": {
+		"title": "Bize güvenen iş ortaklarımız"
+	},
+	"services": {
+		"title": "Hizmetlerimiz",
+		"workwear": {
+			"title": "İş kıyafetleri",
+			"description": "Fabrikalar, inşaat ve üretim işletmeleri için."
+		},
+		"corporate": {
+			"title": "Kurumsal kıyafetler",
+			"description": "Ofis ve hizmet personeli için."
+		},
+		"custom": {
+			"title": "Özel siparişler",
+			"description": "Müşteri numunesine göre dikim."
+		},
+		"mass-production": {
+			"title": "Toplu üretim",
+			"description": "Büyük hacimli siparişler için."
+		}
+	},
+	"portfolio": {
+		"1": {
+			"title": "İş kıyafeti",
+			"description": "Fabrikalar ve üretim işletmeleri için özel dikilen iş kıyafeti.",
+			"material": "Pamuk ve polyester karışımı",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"2": {
+			"title": "İnşaat kıyafeti",
+			"description": "İnşaat sahalarında kullanım için dayanıklı kıyafet.",
+			"material": "Yüksek yoğunluklu kumaş",
+			"color": "Koyu turuncu",
+			"season": "Tüm Mevsimler"
+		},
+		"3": {
+			"title": "Kurumsal kıyafet",
+			"description": "Ofis ve hizmet personeli için kıyafet.",
+			"material": "Premium takım elbise kumaşı",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"4": {
+			"title": "Kaynakçı kıyafeti",
+			"description": "Kaynak işleri için koruyucu kıyafet.",
+			"material": "Isıya dayanıklı kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"5": {
+			"title": "Elektrikçi kıyafeti",
+			"description": "Elektrik montaj işleri için güvenli kıyafet.",
+			"material": "Dielektrik kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"6": {
+			"title": "Depo kıyafeti",
+			"description": "Lojistik ve depo personeli için.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"7": {
+			"title": "Restoran kıyafeti",
+			"description": "Aşçılar ve servis personeli için.",
+			"material": "Hafif pamuk",
+			"color": "Beyaz",
+			"season": "Tüm Mevsimler"
+		},
+		"8": {
+			"title": "Resepsiyon kıyafeti",
+			"description": "Resepsiyon personeli için modern kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"9": {
+			"title": "Kışlık iş kıyafeti",
+			"description": "Soğuk hava için özel kıyafet.",
+			"material": "Isı yalıtımlı kumaş",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"10": {
+			"title": "Yazlık iş kıyafeti",
+			"description": "Sıcak hava için hafif kıyafet.",
+			"material": "Nefes alabilen kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"11": {
+			"title": "Sinyal kıyafeti",
+			"description": "Yüksek görünürlüğe sahip özel kıyafet.",
+			"material": "Reflektörlü kumaş",
+			"color": "Sarı",
+			"season": "Tüm Mevsimler"
+		},
+		"12": {
+			"title": "Mühendis kıyafeti",
+			"description": "Mühendisler ve teknik personel için.",
+			"material": "Premium karışım kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"13": {
+			"title": "Özel sipariş 1",
+			"description": "Müşteri talebine göre üretilen kıyafet.",
+			"material": "Bireysel seçim",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"14": {
+			"title": "Özel sipariş 2",
+			"description": "Kurumsal sipariş temelinde dikilmiştir.",
+			"material": "Premium kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"15": {
+			"title": "Özel sipariş 3",
+			"description": "Özel tasarıma göre dikilmiştir.",
+			"material": "Premium kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"16": {
+			"title": "Tulum",
+			"description": "Üretim işletmeleri için tulum.",
+			"material": "Dayanıklı kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"17": {
+			"title": "Petrol-gaz kıyafeti",
+			"description": "Petrol ve gaz sanayii için özel kıyafet.",
+			"material": "Yanmaz kumaş",
+			"color": "Kırmızı",
+			"season": "Tüm Mevsimler"
+		},
+		"18": {
+			"title": "Teknisyen kıyafeti",
+			"description": "Teknik servis uzmanları için.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"19": {
+			"title": "Servis personeli kıyafeti",
+			"description": "Servis merkezleri için profesyonel kıyafet.",
+			"material": "Hafif kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"20": {
+			"title": "Güvenlik görevlisi kıyafeti",
+			"description": "Güvenlik hizmetleri için özel kıyafet.",
+			"material": "Dayanıklı kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"21": {
+			"title": "Depo kıyafeti",
+			"description": "Depo ve lojistik merkezleri için kıyafet.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"22": {
+			"title": "Üretim kıyafeti",
+			"description": "Büyük üretim işletmeleri için kıyafet.",
+			"material": "Pamuk ve polyester",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"23": {
+			"title": "Premium kıyafet",
+			"description": "Premium segment için özel kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"24": {
+			"title": "Markalı kıyafet",
+			"description": "Şirket logosuyla üretilen kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"25": {
+			"material": "Kumaş",
+			"season": "Mevsim",
+			"color": "Renk"
+		},
+		"26": {
+			"title": "İş kıyafeti",
+			"description": "Fabrikalar ve üretim işletmeleri için özel dikilen iş kıyafeti.",
+			"material": "Pamuk ve polyester karışımı",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"27": {
+			"title": "İnşaat kıyafeti",
+			"description": "İnşaat sahalarında kullanım için dayanıklı kıyafet.",
+			"material": "Yüksek yoğunluklu kumaş",
+			"color": "Koyu turuncu",
+			"season": "Tüm Mevsimler"
+		},
+		"28": {
+			"title": "Kurumsal kıyafet",
+			"description": "Ofis ve hizmet personeli için kıyafet.",
+			"material": "Premium takım elbise kumaşı",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"29": {
+			"title": "Kaynakçı kıyafeti",
+			"description": "Kaynak işleri için koruyucu kıyafet.",
+			"material": "Isıya dayanıklı kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"30": {
+			"title": "Elektrikçi kıyafeti",
+			"description": "Elektrik montaj işleri için güvenli kıyafet.",
+			"material": "Dielektrik kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"31": {
+			"title": "Depo kıyafeti",
+			"description": "Lojistik ve depo personeli için.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"32": {
+			"title": "Restoran kıyafeti",
+			"description": "Aşçılar ve servis personeli için.",
+			"material": "Hafif pamuk",
+			"color": "Beyaz",
+			"season": "Tüm Mevsimler"
+		},
+		"33": {
+			"title": "Resepsiyon kıyafeti",
+			"description": "Resepsiyon personeli için modern kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"34": {
+			"title": "Kışlık iş kıyafeti",
+			"description": "Soğuk hava için özel kıyafet.",
+			"material": "Isı yalıtımlı kumaş",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"35": {
+			"title": "Yazlık iş kıyafeti",
+			"description": "Sıcak hava için hafif kıyafet.",
+			"material": "Nefes alabilen kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"36": {
+			"title": "Sinyal kıyafeti",
+			"description": "Yüksek görünürlüğe sahip özel kıyafet.",
+			"material": "Reflektörlü kumaş",
+			"color": "Sarı",
+			"season": "Tüm Mevsimler"
+		},
+		"37": {
+			"title": "Mühendis kıyafeti",
+			"description": "Mühendisler ve teknik personel için.",
+			"material": "Premium karışım kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"38": {
+			"title": "Özel sipariş 1",
+			"description": "Müşteri talebine göre üretilen kıyafet.",
+			"material": "Bireysel seçim",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"39": {
+			"title": "Özel sipariş 2",
+			"description": "Kurumsal sipariş temelinde dikilmiştir.",
+			"material": "Premium kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"40": {
+			"title": "Özel sipariş 3",
+			"description": "Özel tasarıma göre dikilmiştir.",
+			"material": "Premium kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"41": {
+			"title": "Tulum",
+			"description": "Üretim işletmeleri için tulum.",
+			"material": "Dayanıklı kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"42": {
+			"title": "Petrol-gaz kıyafeti",
+			"description": "Petrol ve gaz sanayii için özel kıyafet.",
+			"material": "Yanmaz kumaş",
+			"color": "Kırmızı",
+			"season": "Tüm Mevsimler"
+		},
+		"43": {
+			"title": "Teknisyen kıyafeti",
+			"description": "Teknik servis uzmanları için.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"44": {
+			"title": "Servis personeli kıyafeti",
+			"description": "Servis merkezleri için profesyonel kıyafet.",
+			"material": "Hafif kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"45": {
+			"title": "Güvenlik görevlisi kıyafeti",
+			"description": "Güvenlik hizmetleri için özel kıyafet.",
+			"material": "Dayanıklı kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"46": {
+			"title": "Depo kıyafeti",
+			"description": "Depo ve lojistik merkezleri için kıyafet.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"47": {
+			"title": "Üretim kıyafeti",
+			"description": "Büyük üretim işletmeleri için kıyafet.",
+			"material": "Pamuk ve polyester",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"48": {
+			"title": "Premium kıyafet",
+			"description": "Premium segment için özel kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"49": {
+			"title": "Markalı kıyafet",
+			"description": "Şirket logosuyla üretilen kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"50": {
+			"title": "Özel sipariş 2",
+			"description": "Kurumsal sipariş temelinde dikilmiştir.",
+			"material": "Premium kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"51": {
+			"title": "Özel sipariş 3",
+			"description": "Özel tasarıma göre dikilmiştir.",
+			"material": "Premium kumaş",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"52": {
+			"title": "Tulum",
+			"description": "Üretim işletmeleri için tulum.",
+			"material": "Dayanıklı kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"53": {
+			"title": "Petrol-gaz kıyafeti",
+			"description": "Petrol ve gaz sanayii için özel kıyafet.",
+			"material": "Yanmaz kumaş",
+			"color": "Kırmızı",
+			"season": "Tüm Mevsimler"
+		},
+		"54": {
+			"title": "Teknisyen kıyafeti",
+			"description": "Teknik servis uzmanları için.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"55": {
+			"title": "Servis personeli kıyafeti",
+			"description": "Servis merkezleri için profesyonel kıyafet.",
+			"material": "Hafif kumaş",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"56": {
+			"title": "Güvenlik görevlisi kıyafeti",
+			"description": "Güvenlik hizmetleri için özel kıyafet.",
+			"material": "Dayanıklı kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"57": {
+			"title": "Depo kıyafeti",
+			"description": "Depo ve lojistik merkezleri için kıyafet.",
+			"material": "Polyester",
+			"color": "Gri",
+			"season": "Tüm Mevsimler"
+		},
+		"58": {
+			"title": "Üretim kıyafeti",
+			"description": "Büyük üretim işletmeleri için kıyafet.",
+			"material": "Pamuk ve polyester",
+			"color": "Mavi",
+			"season": "Tüm Mevsimler"
+		},
+		"59": {
+			"title": "Premium kıyafet",
+			"description": "Premium segment için özel kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Siyah",
+			"season": "Tüm Mevsimler"
+		},
+		"60": {
+			"title": "Markalı kıyafet",
+			"description": "Şirket logosuyla üretilen kıyafet.",
+			"material": "Premium kumaş",
+			"color": "Lacivert",
+			"season": "Tüm Mevsimler"
+		},
+		"labels": {
+			"material": "Kumaş",
+			"season": "Mevsim",
+			"color": "Renk"
+		},
+		"title": "Portföy",
+		"partfolioPageTitle": "TÜM ÇALIŞMALARIMIZI GÖRÜNTÜLE"
+	},
+	"portfolioPage": {
+		"title": "PORTFÖY",
+		"backBtn": "GERİ",
+		"categories": {
+			"summer": "Yazlık kıyafetler",
+			"winter": "Kışlık kıyafetler",
+			"shoes": "Ayakkabılar",
+			"protection": "Koruyucu ekipmanlar",
+			"mass": "Toplu üretim kıyafetler"
+		}
+	},
+	"about": {
+		"label": "Hakkımızda",
+		"title": "Deneyim ve kaliteye dayalı üretim",
+		"description": "Şirketimiz kurumsal iş kıyafetleri, özel giysiler ve bireysel siparişlerin üretiminde uzmanlaşmıştır.",
+		"features": {
+			"quality": "Kaliteli kumaşlar",
+			"specialists": "Deneyimli uzmanlar",
+			"delivery": "Zamanında teslimat",
+			"approach": "Bireysel yaklaşım"
+		},
+		"button": "DAHA FAZLA BİLGİ"
+	},
+	"contact": {
+		"title": "İletişim",
+		"phone": {
+			"title": "Telefon",
+			"info": "Pazartesi–Cumartesi\n09:00–19:00"
+		},
+		"telegram": {
+			"title": "Telegram",
+			"info": "Hızlı yanıt"
+		},
+		"email": {
+			"title": "Email",
+			"info": "24 saat içinde yanıt"
+		},
+		"address": {
+			"title": "Adres",
+			"city": "Taşkent şehri",
+			"district": "Şeyhantahur bölgesi"
+		}
+	},
+	"form": {
+		"name": "Adınız *",
+		"company": "Şirket adı *",
+		"selectProduct": "Hangi ürüne ihtiyacınız var?",
+		"phone": "+998 90 123 45 67",
+		"send": "GÖNDER",
+		"sending": "Gönderiliyor...",
+		"successTitle": "Başarıyla gönderildi!",
+		"successText": "Yakında sizinle iletişime geçeceğiz.",
+		"newRequest": "Yeni talep",
+		"error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+		"products": {
+			"workwear": "İş kıyafeti",
+			"corporate": "Kurumsal kıyafet",
+			"custom": "Özel sipariş",
+			"mass": "Toplu üretim kıyafetler"
+		},
+		"errors": {
+			"name": "Lütfen adınızı girin",
+			"company": "Lütfen şirket adını girin",
+			"product": "Lütfen ürün türünü seçin",
+			"phone": "Lütfen telefon numaranızı girin",
+			"phoneFormat": "Format: +998 90 123 45 67 veya 90 123 45 67"
+		}
+	},
+	"telegram": {
+		"title": "Yeni talep",
+		"name": "İsim",
+		"company": "Şirket",
+		"product": "Ürün",
+		"phone": "Telefon"
+	},
+	"aboutDetailsHero": {
+		"eyebrow": "Kalite – Güven – Sorumluluk",
+		"title": {
+			"line1": "Kaliteli dikim.",
+			"line2": "Güvenilir iş birliği."
+		},
+		"description": "Her siparişin arkasında büyük bir sorumluluk vardır. Bizim için kalite sadece dikiş değil, müşterimizin bize olan güvenidir.",
+		"features": {
+			"quality": {
+				"title": "Kalite garantisi",
+				"description": "Her ürün kalite kontrolünden geçer"
+			},
+			"responsibility": {
+				"title": "Sorumlu yaklaşım",
+				"description": "Siparişinizi kendi işimiz gibi ele alıyoruz"
+			},
+			"partnership": {
+				"title": "Güvenilir ortak",
+				"description": "Süre ve kalite konusunda sözümüzün eriyiz"
+			}
+		},
+		"video": {
+			"alt": "Üretim süreci",
+			"text": "Üretim sürecimiz"
+		}
+	},
+	"promise": {
+		"title": {
+			"line1": "Biz sadece kaliteli ürün değil,",
+			"line2": "aynı zamanda güven ve huzur da sunuyoruz."
+		},
+		"description": "Müşterilerimiz bize güvendiğinde daha iyi çalışıyoruz. Sizin başarınız – en büyük hedefimiz."
+	},
+	"values": {
+		"eyebrow": "Değerlerimiz",
+		"title": "Bizi diğerlerinden ayıran şey.",
+		"cards": {
+			"quality": {
+				"title": "Kalite",
+				"description": "Yüksek kaliteli malzemeler ve kusursuz dikiş – standardımız."
+			},
+			"trust": {
+				"title": "Güven",
+				"description": "Her sipariş bize duyulan bir güvendir. Bunu değerli buluyoruz."
+			},
+			"time": {
+				"title": "Süre",
+				"description": "Zaman paradır. Bu yüzden her zaman zamanında teslim ediyoruz."
+			},
+			"precision": {
+				"title": "Hassasiyet",
+				"description": "Her detayda hassasiyet ve titizlik – mükemmel sonucun garantisi."
+			}
+		}
+	},
+	"whyUs": {
+		"eyebrow": "Neden biz?",
+		"title": "Sizin için sadece en iyisini seçiyoruz.",
+		"cards": {
+			"materials": {
+				"title": "Premium malzemeler",
+				"description": "Yalnızca test edilmiş ve sertifikalı malzemeler kullanıyoruz."
+			},
+			"equipment": {
+				"title": "Modern ekipmanlar",
+				"description": "En son teknolojili ekipmanlarla hassas ve kaliteli üretim."
+			},
+			"team": {
+				"title": "Deneyimli ekip",
+				"description": "10+ yıllık deneyime sahip uzman ekibiyle çalışıyoruz."
+			},
+			"quality": {
+				"title": "Kalite kontrolü",
+				"description": "Her ürün çok aşamalı kalite kontrolünden geçer."
+			},
+			"delivery": {
+				"title": "Zamanında teslimat",
+				"description": "Belirlenen süre içinde güvenilir ve güvenli teslimat."
+			},
+			"approach": {
+				"title": "Bireysel yaklaşım",
+				"description": "Her müşterinin ihtiyacına göre benzersiz bir çözüm sunuyoruz."
+			}
+		}
+	},
+	"testimonials": {
+		"eyebrow": "Müşteri yorumları",
+		"title": "Bize güveniyorlar.",
+		"items": {
+			"1": {
+				"name": "Asil Textile",
+				"company": "Satın Alma Departmanı Müdürü",
+				"text": "Siparişimiz belirlenen sürede ve çok kaliteli şekilde hazırlandı. Ekiple çalışmak çok keyifli ve verimliydi."
+			},
+			"2": {
+				"name": "Modern Wear",
+				"company": "Direktör",
+				"text": "Kalite, hassasiyet ve sorumluluk – bunların hepsini Details ekibinde bulduk. Her zaman beklediğimizden daha iyi."
+			},
+			"3": {
+				"name": "Elegant Boutique",
+				"company": "Satın Alma Müdürü",
+				"text": "Kıyafetlerin kalitesi mükemmel düzeyde. Her detaya gösterdikleri özen bizi hayrete düşürdü."
+			},
+			"4": {
+				"name": "Urban Style",
+				"company": "Marka Sahibi",
+				"text": "Uzun vadeli iş birliği için güvenilir ve sorumlu bir üretici. Tavsiye ederiz!"
+			}
+		}
+	},
+	"faq": {
+		"eyebrow": "Sıkça sorulan sorular",
+		"title": "Sorularınız mı var?",
+		"items": {
+			"1": {
+				"question": "Minimum sipariş miktarı nedir?",
+				"answer": "Sipariş miktarı ürün türüne göre belirlenir. Detaylı bilgi için bizimle iletişime geçin."
+			},
+			"2": {
+				"question": "Sipariş ne kadar sürede hazır olur?",
+				"answer": "Bu, ürün türüne ve miktarına bağlıdır. Genellikle üretim süresi önceden kararlaştırılır."
+			},
+			"3": {
+				"question": "Kendi tasarımıma göre dikim yapabilir misiniz?",
+				"answer": "Evet. Ürünleri sizin tasarımınıza, ölçünüze ve gereksinimlerinize göre üretiyoruz."
+			},
+			"4": {
+				"question": "Teslimat hizmeti de sunuyor musunuz?",
+				"answer": "Evet. Siparişleri kararlaştırılan adrese güvenilir şekilde teslim ediyoruz."
+			},
+			"5": {
+				"question": "Kalite nasıl kontrol ediliyor?",
+				"answer": "Her ürün üretimin birçok aşamasında kontrol edilir ve son kontrolden geçer."
+			}
+		},
+		"cta": {
+			"title": "Projenizi birlikte hayata geçirelim.",
+			"description": "Fikriniz, deneyimimiz ve kaliteli üretimimizle mükemmel bir ürüne dönüşecek.",
+			"order": "Sipariş ver",
+			"telegram": "Telegram üzerinden iletişime geç"
+		}
+	},
+	"seo": {
+		"home": {
+			"title": "Özel İş Kıyafeti Üretimi | Uniforma",
+			"description": "İşletmeler için kaliteli özel iş kıyafetleri, üniformalar ve kurumsal giysiler üretiyoruz."
+		},
+		"portfolio": {
+			"title": "Portföy | Uniforma",
+			"description": "Ürettiğimiz özel iş kıyafetleri ve üniforma projelerini inceleyin."
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"slug": "workwear",
+			"image": "/image/portfolio/summer/portfolio-summer-3.png",
+			"icon": "helmet"
+		},
+		{
+			"id": 2,
+			"slug": "corporate",
+			"image": "/image/portfolio/summer/portfolio-summer-4.png",
+			"icon": "briefcase"
+		},
+		{
+			"id": 3,
+			"slug": "custom",
+			"image": "/image/portfolio/summer/portfolio-summer-7.png",
+			"icon": "scissors"
+		},
+		{
+			"id": 4,
+			"slug": "mass-production",
+			"image": "/image/portfolio/summer/portfolio-summer-8.png",
+			"icon": "factory"
+		}
+	]
+}

@@ -1,0 +1,692 @@
+{
+	"header": {
+		"about": "ABOUT US",
+		"services": "SERVICES",
+		"portfolio": "PORTFOLIO",
+		"contact": "CONTACT"
+	},
+	"hero": {
+		"title": "We produce custom clothing for your enterprise",
+		"description": "A trusted partner of Aysel Energy, CY-90, DreamLevel, SHUMBOLA, Schneider Electric, Zmart, Artel and other major companies",
+		"orderBtn": "PLACE AN ORDER",
+		"portfolioBtn": "VIEW PORTFOLIO"
+	},
+	"partners": {
+		"title": "Partners who trust us"
+	},
+	"services": {
+		"title": "Our Services",
+		"workwear": {
+			"title": "Work uniforms",
+			"description": "For factories, construction and manufacturing enterprises."
+		},
+		"corporate": {
+			"title": "Corporate clothing",
+			"description": "For office and service staff."
+		},
+		"custom": {
+			"title": "Custom orders",
+			"description": "Sewing based on the customer's sample."
+		},
+		"mass-production": {
+			"title": "Mass production",
+			"description": "For large-volume orders."
+		}
+	},
+	"portfolio": {
+		"title": "Portfolio",
+		"partfolioPageTitle": "VIEW ALL OUR WORKS",
+
+		"1": {
+			"title": "Work uniform",
+			"description": "Custom-made work uniform for factories and manufacturing enterprises.",
+			"material": "Cotton and polyester blend",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"2": {
+			"title": "Construction uniform",
+			"description": "Durable uniform for use on construction sites.",
+			"material": "High-density fabric",
+			"color": "Dark orange",
+			"season": "All Seasons"
+		},
+		"3": {
+			"title": "Corporate uniform",
+			"description": "Uniform for office and service staff.",
+			"material": "Premium suit fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"4": {
+			"title": "Welder uniform",
+			"description": "Protective uniform for welding work.",
+			"material": "Heat-resistant fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"5": {
+			"title": "Electrician uniform",
+			"description": "Safe uniform for electrical installation work.",
+			"material": "Dielectric fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"6": {
+			"title": "Warehouse uniform",
+			"description": "For logistics and warehouse staff.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"7": {
+			"title": "Restaurant uniform",
+			"description": "For chefs and service staff.",
+			"material": "Lightweight cotton",
+			"color": "White",
+			"season": "All Seasons"
+		},
+		"8": {
+			"title": "Reception uniform",
+			"description": "Modern uniform for reception staff.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"9": {
+			"title": "Winter work uniform",
+			"description": "Special uniform for cold weather.",
+			"material": "Heat-insulating fabric",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"10": {
+			"title": "Summer work uniform",
+			"description": "Lightweight uniform for hot weather.",
+			"material": "Breathable fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"11": {
+			"title": "Hi-vis uniform",
+			"description": "Special clothing with high visibility.",
+			"material": "Reflective fabric",
+			"color": "Yellow",
+			"season": "All Seasons"
+		},
+		"12": {
+			"title": "Engineer uniform",
+			"description": "For engineers and technical staff.",
+			"material": "Premium blended fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"13": {
+			"title": "Custom order 1",
+			"description": "Uniform produced according to customer requirements.",
+			"material": "Individual selection",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"14": {
+			"title": "Custom order 2",
+			"description": "Sewn based on a corporate order.",
+			"material": "Premium fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"15": {
+			"title": "Custom order 3",
+			"description": "Sewn based on an exclusive design.",
+			"material": "Premium fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"16": {
+			"title": "Coverall",
+			"description": "Coverall for manufacturing enterprises.",
+			"material": "Durable fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"17": {
+			"title": "Oil & gas uniform",
+			"description": "Special uniform for the oil and gas industry.",
+			"material": "Fire-resistant fabric",
+			"color": "Red",
+			"season": "All Seasons"
+		},
+		"18": {
+			"title": "Technician uniform",
+			"description": "For technical service specialists.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"19": {
+			"title": "Service staff uniform",
+			"description": "Professional uniform for service centers.",
+			"material": "Lightweight fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"20": {
+			"title": "Security guard uniform",
+			"description": "Special uniform for security services.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"21": {
+			"title": "Storage uniform",
+			"description": "Uniform for storage and logistics centers.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"22": {
+			"title": "Manufacturing uniform",
+			"description": "Uniform for large manufacturing enterprises.",
+			"material": "Cotton and polyester",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"23": {
+			"title": "Premium uniform",
+			"description": "Special uniform for the premium segment.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"24": {
+			"title": "Branded uniform",
+			"description": "Uniform produced with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"25": {
+			"material": "Fabric",
+			"season": "Season",
+			"color": "Color"
+		},
+		"26": {
+			"title": "Work uniform",
+			"description": "Custom-made work uniform for factories and manufacturing enterprises.",
+			"material": "Cotton and polyester blend",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"27": {
+			"title": "Construction uniform",
+			"description": "Durable uniform for use on construction sites.",
+			"material": "High-density fabric",
+			"color": "Dark orange",
+			"season": "All Seasons"
+		},
+		"28": {
+			"title": "Corporate uniform",
+			"description": "Uniform for office and service staff.",
+			"material": "Premium suit fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"29": {
+			"title": "Welder uniform",
+			"description": "Protective uniform for welding work.",
+			"material": "Heat-resistant fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"30": {
+			"title": "Electrician uniform",
+			"description": "Safe uniform for electrical installation work.",
+			"material": "Dielectric fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"31": {
+			"title": "Warehouse uniform",
+			"description": "For logistics and warehouse staff.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"32": {
+			"title": "Restaurant uniform",
+			"description": "For chefs and service staff.",
+			"material": "Lightweight cotton",
+			"color": "White",
+			"season": "All Seasons"
+		},
+		"33": {
+			"title": "Reception uniform",
+			"description": "Modern uniform for reception staff.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"34": {
+			"title": "Winter work uniform",
+			"description": "Special uniform for cold weather.",
+			"material": "Heat-insulating fabric",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"35": {
+			"title": "Summer work uniform",
+			"description": "Lightweight uniform for hot weather.",
+			"material": "Breathable fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"36": {
+			"title": "Hi-vis uniform",
+			"description": "Special clothing with high visibility.",
+			"material": "Reflective fabric",
+			"color": "Yellow",
+			"season": "All Seasons"
+		},
+		"37": {
+			"title": "Engineer uniform",
+			"description": "For engineers and technical staff.",
+			"material": "Premium blended fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"38": {
+			"title": "Custom order 1",
+			"description": "Uniform produced according to customer requirements.",
+			"material": "Individual selection",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"39": {
+			"title": "Custom order 2",
+			"description": "Sewn based on a corporate order.",
+			"material": "Premium fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"40": {
+			"title": "Custom order 3",
+			"description": "Sewn based on an exclusive design.",
+			"material": "Premium fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"41": {
+			"title": "Coverall",
+			"description": "Coverall for manufacturing enterprises.",
+			"material": "Durable fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"42": {
+			"title": "Oil & gas uniform",
+			"description": "Special uniform for the oil and gas industry.",
+			"material": "Fire-resistant fabric",
+			"color": "Red",
+			"season": "All Seasons"
+		},
+		"43": {
+			"title": "Technician uniform",
+			"description": "For technical service specialists.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"44": {
+			"title": "Service staff uniform",
+			"description": "Professional uniform for service centers.",
+			"material": "Lightweight fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"45": {
+			"title": "Security guard uniform",
+			"description": "Special uniform for security services.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"46": {
+			"title": "Storage uniform",
+			"description": "Uniform for storage and logistics centers.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"47": {
+			"title": "Manufacturing uniform",
+			"description": "Uniform for large manufacturing enterprises.",
+			"material": "Cotton and polyester",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"48": {
+			"title": "Premium uniform",
+			"description": "Special uniform for the premium segment.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"49": {
+			"title": "Branded uniform",
+			"description": "Uniform produced with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"50": {
+			"title": "Custom order 2",
+			"description": "Sewn based on a corporate order.",
+			"material": "Premium fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"51": {
+			"title": "Custom order 3",
+			"description": "Sewn based on an exclusive design.",
+			"material": "Premium fabric",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"52": {
+			"title": "Coverall",
+			"description": "Coverall for manufacturing enterprises.",
+			"material": "Durable fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"53": {
+			"title": "Oil & gas uniform",
+			"description": "Special uniform for the oil and gas industry.",
+			"material": "Fire-resistant fabric",
+			"color": "Red",
+			"season": "All Seasons"
+		},
+		"54": {
+			"title": "Technician uniform",
+			"description": "For technical service specialists.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"55": {
+			"title": "Service staff uniform",
+			"description": "Professional uniform for service centers.",
+			"material": "Lightweight fabric",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"56": {
+			"title": "Security guard uniform",
+			"description": "Special uniform for security services.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"57": {
+			"title": "Storage uniform",
+			"description": "Uniform for storage and logistics centers.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All Seasons"
+		},
+		"58": {
+			"title": "Manufacturing uniform",
+			"description": "Uniform for large manufacturing enterprises.",
+			"material": "Cotton and polyester",
+			"color": "Blue",
+			"season": "All Seasons"
+		},
+		"59": {
+			"title": "Premium uniform",
+			"description": "Special uniform for the premium segment.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All Seasons"
+		},
+		"60": {
+			"title": "Branded uniform",
+			"description": "Uniform produced with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All Seasons"
+		},
+		"labels": {
+			"material": "Fabric",
+			"season": "Season",
+			"color": "Color"
+		}
+	},
+	"portfolioPage": {
+		"title": "PORTFOLIO",
+		"backBtn": "BACK",
+		"categories": {
+			"summer": "Summer clothing",
+			"winter": "Winter clothing",
+			"shoes": "Footwear",
+			"protection": "Protective equipment",
+			"mass": "Mass-produced clothing"
+		}
+	},
+	"about": {
+		"label": "About us",
+		"title": "Production based on experience and quality",
+		"description": "Our company specializes in producing corporate work uniforms, special clothing and custom orders.",
+		"features": {
+			"quality": "Quality fabrics",
+			"specialists": "Experienced specialists",
+			"delivery": "On-time delivery",
+			"approach": "Individual approach"
+		},
+		"button": "LEARN MORE"
+	},
+	"contact": {
+		"title": "Contact",
+		"phone": {
+			"title": "Phone",
+			"info": "Monday–Saturday\n09:00–19:00"
+		},
+		"telegram": {
+			"title": "Telegram",
+			"info": "Quick response"
+		},
+		"email": {
+			"title": "Email",
+			"info": "Response within 24 hours"
+		},
+		"address": {
+			"title": "Address",
+			"city": "Tashkent city",
+			"district": "Shaykhantakhur district"
+		}
+	},
+	"form": {
+		"name": "Your name *",
+		"company": "Company name *",
+		"selectProduct": "What product do you need?",
+		"phone": "+998 90 123 45 67",
+		"send": "SEND",
+		"sending": "Sending...",
+		"successTitle": "Successfully sent!",
+		"successText": "We will contact you soon.",
+		"newRequest": "New request",
+		"error": "An error occurred. Please try again.",
+		"products": {
+			"workwear": "Work uniform",
+			"corporate": "Corporate uniform",
+			"custom": "Custom order",
+			"mass": "Mass-produced clothing"
+		},
+		"errors": {
+			"name": "Please enter your name",
+			"company": "Please enter your company name",
+			"product": "Please select a product type",
+			"phone": "Please enter your phone number",
+			"phoneFormat": "Format: +998 90 123 45 67 or 90 123 45 67"
+		}
+	},
+	"telegram": {
+		"title": "New request",
+		"name": "Name",
+		"company": "Company",
+		"product": "Product",
+		"phone": "Phone"
+	},
+	"aboutDetailsHero": {
+		"eyebrow": "Quality – Trust – Responsibility",
+		"title": {
+			"line1": "Quality tailoring.",
+			"line2": "Reliable partnership."
+		},
+		"description": "Behind every order lies great responsibility. For us, quality is not just about sewing — it is our customers' trust in us.",
+		"features": {
+			"quality": {
+				"title": "Quality guarantee",
+				"description": "Every product undergoes quality control"
+			},
+			"responsibility": {
+				"title": "Responsible approach",
+				"description": "We treat your order as our own business"
+			},
+			"partnership": {
+				"title": "Reliable partner",
+				"description": "We keep our word on deadlines and quality"
+			}
+		},
+		"video": {
+			"alt": "Production process",
+			"text": "Our production process"
+		}
+	},
+	"promise": {
+		"title": {
+			"line1": "We deliver not only quality products,",
+			"line2": "but also trust and peace of mind."
+		},
+		"description": "When our customers trust us, we work even better. Your success is our greatest goal."
+	},
+	"values": {
+		"eyebrow": "Our values",
+		"title": "What sets us apart from others.",
+		"cards": {
+			"quality": {
+				"title": "Quality",
+				"description": "High-quality materials and flawless stitching are our standard."
+			},
+			"trust": {
+				"title": "Trust",
+				"description": "Every order is trust placed in us. We value it."
+			},
+			"time": {
+				"title": "Timeliness",
+				"description": "Time is money. That's why we always deliver on time."
+			},
+			"precision": {
+				"title": "Precision",
+				"description": "Precision and thoroughness in every detail — the guarantee of a perfect result."
+			}
+		}
+	},
+	"whyUs": {
+		"eyebrow": "Why us?",
+		"title": "We choose only the best for you.",
+		"cards": {
+			"materials": {
+				"title": "Premium materials",
+				"description": "We use only tested and certified materials."
+			},
+			"equipment": {
+				"title": "Modern equipment",
+				"description": "Precise, quality production using the latest technology equipment."
+			},
+			"team": {
+				"title": "Experienced team",
+				"description": "We work with a team of specialists with over 10 years of experience."
+			},
+			"quality": {
+				"title": "Quality control",
+				"description": "Every product goes through multi-stage quality control."
+			},
+			"delivery": {
+				"title": "On-time delivery",
+				"description": "Reliable and safe delivery within the agreed deadline."
+			},
+			"approach": {
+				"title": "Individual approach",
+				"description": "We offer a unique solution based on each customer's needs."
+			}
+		}
+	},
+	"testimonials": {
+		"eyebrow": "Customer reviews",
+		"title": "They trust us.",
+		"items": {
+			"1": {
+				"name": "Asil Textile",
+				"company": "Head of Procurement",
+				"text": "Our order was completed on time and with great quality. Working with the team was very pleasant and efficient."
+			},
+			"2": {
+				"name": "Modern Wear",
+				"company": "Director",
+				"text": "Quality, precision and responsibility — we found all of this with the Details team. Always better than we expected."
+			},
+			"3": {
+				"name": "Elegant Boutique",
+				"company": "Purchasing manager",
+				"text": "The quality of the clothing is excellent. Their attention to every detail impressed us."
+			},
+			"4": {
+				"name": "Urban Style",
+				"company": "Brand owner",
+				"text": "A reliable and responsible manufacturer for long-term partnership. We recommend them!"
+			}
+		}
+	},
+	"faq": {
+		"eyebrow": "Frequently asked questions",
+		"title": "Have questions?",
+		"items": {
+			"1": {
+				"question": "What is the minimum order quantity?",
+				"answer": "The order quantity depends on the product type. Contact us for more details."
+			},
+			"2": {
+				"question": "How long does it take for an order to be ready?",
+				"answer": "This depends on the product type and quantity. The production timeline is usually agreed upon in advance."
+			},
+			"3": {
+				"question": "Can you sew according to my own design?",
+				"answer": "Yes. We produce products based on your design, measurements and requirements."
+			},
+			"4": {
+				"question": "Do you also offer delivery service?",
+				"answer": "Yes. We reliably deliver orders to the agreed address."
+			},
+			"5": {
+				"question": "How is quality controlled?",
+				"answer": "Every product is checked at several stages of production and undergoes final inspection."
+			}
+		},
+		"cta": {
+			"title": "Let's bring your project to life together.",
+			"description": "Your idea will turn into a perfect product with our experience and quality production.",
+			"order": "Place an order",
+			"telegram": "Contact via Telegram"
+		}
+	},
+	"seo": {
+		"home": {
+			"title": "Custom Work Clothing Manufacturing | Uniforma",
+			"description": "We produce quality custom work clothing, uniforms and corporate clothing for businesses."
+		},
+		"portfolio": {
+			"title": "Portfolio | Uniforma",
+			"description": "Explore the custom work clothing and uniform projects we have produced."
+		}
+	}
+}

@@ -1,0 +1,471 @@
+.kk {
+	width: 100%;
+	max-width: 420px;
+	background: #1a1a1a;
+	border: 1px solid #2a2a2a;
+	border-radius: 14px;
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 13px;
+	overflow: visible;
+	box-sizing: border-box;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+body[data-theme='light'] .kk {
+	background: #fff;
+	border-color: #e0e0e0;
+}
+
+/* Body */
+.kk-body {
+	padding: 16px 20px 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	overflow: visible;
+}
+
+/* Titles */
+.kk-title {
+	font-size: 13px;
+	font-weight: 800;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+}
+.kk-sub {
+	font-size: 11px;
+	color: #666;
+	margin-top: 2px;
+}
+body[data-theme='light'] .kk-title {
+	color: #111;
+}
+body[data-theme='light'] .kk-sub {
+	color: #888;
+}
+
+/* Field wrapper */
+.kk-f {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+.kk-ic {
+	position: absolute;
+	left: 11px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: #555;
+	pointer-events: none;
+	display: flex;
+	align-items: center;
+	font-size: 14px;
+}
+.kk-f:has(.kk-err) .kk-ic {
+	top: 18px;
+	transform: none;
+}
+body[data-theme='light'] .kk-ic {
+	color: #999;
+}
+
+/* Input */
+.kk-inp {
+	background: #242424;
+	border: 1px solid #303030;
+	border-radius: 8px;
+	color: #ddd;
+	font-size: 13px;
+	padding: 11px 11px 11px 34px;
+	outline: none;
+	width: 100%;
+	box-sizing: border-box;
+	transition:
+		border-color 0.15s,
+		box-shadow 0.15s;
+	caret-color: #8b6236;
+}
+.kk-inp::placeholder {
+	color: #484848;
+}
+.kk-inp:focus {
+	border-color: #8b6236;
+	box-shadow: 0 0 0 2px rgba(139, 98, 54, 0.15);
+}
+.kk-inp.e {
+	border-color: #c0392b;
+	box-shadow: 0 0 0 2px rgba(192, 57, 43, 0.12);
+}
+
+body[data-theme='light'] .kk-inp {
+	background: #f7f7f7;
+	border-color: #ddd;
+	color: #111;
+}
+body[data-theme='light'] .kk-inp::placeholder {
+	color: #aaa;
+}
+body[data-theme='light'] .kk-inp:focus {
+	border-color: #8b6236;
+	box-shadow: 0 0 0 2px rgba(139, 98, 54, 0.15);
+}
+
+/* Dropdown trigger */
+.kk-drop {
+	display: flex;
+	align-items: center;
+	background: #242424;
+	border: 1px solid #303030;
+	border-radius: 8px;
+	padding: 11px 11px 11px 34px;
+	cursor: pointer;
+	user-select: none;
+	transition: border-color 0.15s;
+}
+.kk-drop:hover {
+	border-color: #484848;
+}
+.kk-drop.e {
+	border-color: #c0392b;
+	box-shadow: 0 0 0 2px rgba(192, 57, 43, 0.12);
+}
+.kk-drop span {
+	flex: 1;
+	color: #ddd;
+	font-size: 13px;
+}
+.kk-drop .ph {
+	color: #484848;
+}
+.kk-drop .arr {
+	color: #555;
+	font-size: 15px;
+	transition: transform 0.2s;
+	flex-shrink: 0;
+}
+.kk-drop .arr.up {
+	transform: rotate(180deg);
+}
+
+body[data-theme='light'] .kk-drop {
+	background: #f7f7f7;
+	border-color: #ddd;
+}
+body[data-theme='light'] .kk-drop:hover {
+	border-color: #bbb;
+}
+body[data-theme='light'] .kk-drop span {
+	color: #111;
+}
+body[data-theme='light'] .kk-drop .ph {
+	color: #aaa;
+}
+body[data-theme='light'] .kk-drop .arr {
+	color: #aaa;
+}
+
+/* Dropdown list */
+.kk-list {
+	position: absolute;
+	top: calc(100% + 3px);
+	left: 0;
+	right: 0;
+	z-index: 200;
+	background: #242424;
+	border: 1px solid #333;
+	border-radius: 8px;
+	list-style: none;
+	overflow-y: auto;
+	max-height: 180px;
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+	animation: fd 0.12s ease;
+}
+@keyframes fd {
+	from {
+		opacity: 0;
+		transform: translateY(-4px);
+	}
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}
+.kk-list li {
+	display: flex;
+	align-items: center;
+	gap: 9px;
+	padding: 10px 14px;
+	color: #bbb;
+	cursor: pointer;
+	transition: background 0.12s;
+}
+.kk-list li:hover {
+	background: #2c2c2c;
+}
+.kk-list li.s {
+	background: rgba(139, 98, 54, 0.15);
+	color: #8b6236;
+}
+.li-ic {
+	display: flex;
+	align-items: center;
+	font-size: 15px;
+	color: #666;
+}
+.kk-list li.s .li-ic {
+	color: #8b6236;
+}
+
+body[data-theme='light'] .kk-list {
+	background: #fff;
+	border-color: #e0e0e0;
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+body[data-theme='light'] .kk-list li {
+	color: #333;
+}
+body[data-theme='light'] .kk-list li:hover {
+	background: #f5f5f5;
+}
+body[data-theme='light'] .kk-list li.s {
+	background: rgba(139, 98, 54, 0.08);
+	color: #8b6236;
+}
+body[data-theme='light'] .li-ic {
+	color: #aaa;
+}
+body[data-theme='light'] .kk-list li.s .li-ic {
+	color: #8b6236;
+}
+
+/* Error & fail */
+.kk-err {
+	font-size: 11px;
+	color: #e74c3c;
+	margin-top: 3px;
+	padding-left: 2px;
+}
+.kk-fail {
+	font-size: 12px;
+	color: #e74c3c;
+	text-align: center;
+	margin: 0;
+}
+
+/* Button */
+.kk-btn {
+	width: 100%;
+	padding: 12px;
+	margin-top: 2px;
+	background: linear-gradient(90deg, #7a5530, #8b6236, #7a5530);
+	background-size: 200%;
+	border: none;
+	border-radius: 8px;
+	color: #fff;
+	font-size: 13px;
+	font-weight: 800;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	transition:
+		background-position 0.3s,
+		box-shadow 0.2s,
+		transform 0.15s;
+	box-shadow: 0 3px 12px rgba(139, 98, 54, 0.3);
+}
+.kk-btn:hover:not(:disabled) {
+	background-position: 100%;
+	box-shadow: 0 5px 18px rgba(139, 98, 54, 0.45);
+	transform: translateY(-1px);
+}
+.kk-btn:active:not(:disabled) {
+	transform: none;
+}
+.kk-btn:disabled {
+	opacity: 0.65;
+	cursor: not-allowed;
+}
+
+/* Success */
+.kk-ok {
+	padding: 28px 20px 24px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 8px;
+	text-align: center;
+}
+.kk-ok-circle {
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	background: linear-gradient(135deg, #7a5530, #8b6236);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 20px;
+	font-weight: 900;
+	color: #fff;
+	box-shadow: 0 4px 16px rgba(139, 98, 54, 0.35);
+}
+.kk-ok h3 {
+	font-size: 15px;
+	font-weight: 700;
+	color: #fff;
+	margin: 0;
+}
+.kk-ok p {
+	font-size: 12px;
+	color: #666;
+	margin: 0;
+}
+body[data-theme='light'] .kk-ok h3 {
+	color: #111;
+}
+body[data-theme='light'] .kk-ok p {
+	color: #888;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+	.kk {
+		max-width: 100%;
+	}
+	.kk-body {
+		padding: 14px 18px 20px;
+		gap: 8px;
+	}
+	.kk-modal {
+		max-width: 480px;
+	}
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+	.kk {
+		border-radius: 12px;
+		max-width: 100%;
+	}
+	.kk-body {
+		padding: 12px 14px 16px;
+		gap: 7px;
+	}
+	.kk-inp {
+		font-size: 14px;
+		padding: 12px 12px 12px 34px;
+	}
+	.kk-drop {
+		font-size: 14px;
+		padding: 12px 12px 12px 34px;
+	}
+	.kk-list {
+		max-height: 160px;
+	}
+	.kk-btn {
+		padding: 13px;
+		font-size: 13px;
+	}
+	.kk-overlay {
+		padding: 12px;
+		align-items: flex-end;
+	}
+	.kk-modal {
+		border-radius: 14px 14px 0 0;
+		max-width: 100%;
+	}
+}
+
+/* Small mobile */
+@media (max-width: 360px) {
+	.kk-body {
+		padding: 10px 12px 14px;
+	}
+	.kk-title {
+		font-size: 12px;
+	}
+}
+
+/* Modal overlay */
+.kk-overlay {
+	position: fixed;
+	inset: 0;
+	background: rgba(0, 0, 0, 0.7);
+	backdrop-filter: blur(4px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 1000;
+	padding: 16px;
+	animation: ov-in 0.2s ease;
+}
+@keyframes ov-in {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.kk-modal {
+	position: relative;
+	width: 100%;
+	max-width: 420px;
+	background: #1a1a1a;
+	border: 1px solid #2a2a2a;
+	border-radius: 14px;
+	overflow: visible;
+	box-shadow: 0 24px 60px rgba(0, 0, 0, 0.7);
+	animation: md-in 0.2s ease;
+}
+body[data-theme='light'] .kk-modal {
+	background: #fff;
+	border-color: #e0e0e0;
+}
+@keyframes md-in {
+	from {
+		opacity: 0;
+		transform: translateY(12px) scale(0.97);
+	}
+	to {
+		opacity: 1;
+		transform: none;
+	}
+}
+
+.kk-close {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	width: 28px;
+	height: 28px;
+	border: none;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, 0.07);
+	color: #888;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	transition:
+		background 0.15s,
+		color 0.15s;
+	z-index: 10;
+}
+.kk-close:hover {
+	background: rgba(255, 255, 255, 0.14);
+	color: #fff;
+}
+body[data-theme='light'] .kk-close {
+	background: rgba(0, 0, 0, 0.06);
+	color: #555;
+}
+body[data-theme='light'] .kk-close:hover {
+	background: rgba(0, 0, 0, 0.12);
+	color: #111;
+}

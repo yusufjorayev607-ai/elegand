@@ -1,0 +1,55 @@
+.scroll-top {
+	position: fixed;
+	right: 24px;
+	bottom: 24px;
+	width: 52px;
+	height: 52px;
+	border: none;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	z-index: 999;
+	transition: 0.3s;
+}
+
+/* Light */
+
+body[data-theme='light'] .scroll-top {
+	background: #8b6236;
+	color: white;
+	box-shadow: 0 10px 25px #8b623652;
+}
+
+body[data-theme='light'] .scroll-top:hover {
+	transform: translateY(-5px);
+	background: #8b6236;
+}
+/* Dark */
+body[data-theme='dark'] .scroll-top {
+	background: #8b6236;
+	color: white;
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
+}
+body[data-theme='dark'] .scroll-top:hover {
+	transform: translateY(-5px);
+	background: #8b6236;
+}
+/* Mobile */
+@media (max-width: 768px) {
+	.scroll-top {
+		width: 46px;
+		height: 46px;
+		right: 18px;
+		bottom: 18px;
+	}
+}
+@media (max-width: 480px) {
+	.scroll-top {
+		width: 42px;
+		height: 42px;
+		right: 14px;
+		bottom: 14px;
+	}
+}

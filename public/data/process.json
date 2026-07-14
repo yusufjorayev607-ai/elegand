@@ -1,0 +1,36 @@
+{
+	"steps": [
+		{
+			"step": 1,
+			"icon": "/icons/clipboard-list (1).svg"
+		},
+		{
+			"step": 2,
+			"icon": "/icons/shirt.svg "
+		},
+		{
+			"step": 3,
+			"icon": "/icons/swatch-book.svg "
+		},
+		{
+			"step": 4,
+			"icon": "/icons/needle-thread.svg "
+		},
+		{
+			"step": 5,
+			"icon": "/icons/file-check.svg "
+		},
+		{
+			"step": 6,
+			"icon": "/icons/ruler-dimension-line.svg"
+		},
+		{
+			"step": 7,
+			"icon": "/icons/spool.svg"
+		},
+		{
+			"step": 8,
+			"icon": "/icons/truck.svg"
+		}
+	]
+}

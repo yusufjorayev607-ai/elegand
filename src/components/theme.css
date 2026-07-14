@@ -1,0 +1,51 @@
+.theme {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+}
+
+.theme__icon {
+	font-size: 24px;
+	color: #888;
+	transition: 0.3s;
+}
+
+.theme__icon--active {
+	color: #8b6236;
+}
+
+.theme__toggle {
+	width: 64px;
+	height: 32px;
+
+	border: none;
+	border-radius: 30px;
+
+	background: #bebebe45;
+
+	cursor: pointer;
+
+	position: relative;
+	padding: 0;
+
+	transition: 0.3s;
+}
+
+.theme__circle {
+	position: absolute;
+
+	left: 4px;
+	top: 4px;
+
+	width: 24px;
+	height: 24px;
+
+	border-radius: 50%;
+	background: #8b6236;
+
+	transition: 0.3s;
+}
+
+.theme__circle--light {
+	left: 36px;
+}

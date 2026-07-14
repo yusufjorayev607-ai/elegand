@@ -1,0 +1,773 @@
+{
+	"header": {
+		"about": "BIZ HAQIMIZDA",
+		"services": "XIZMATLAR",
+		"portfolio": "PORTFOLIO",
+		"contact": "KONTAKT"
+	},
+	"hero": {
+		"title": "Korxonangiz uchun maxsus kiyimlar ishlab chiqaramiz",
+		"description": "Aysel Energy, CY-90, DreamLevel, SHUMBOLA, Schneider Electric, Zmart, Artel va boshqa yirik kompaniyalarning ishonchli hamkori",
+		"orderBtn": "BUYURTMA BERISH",
+		"portfolioBtn": "PORTFOLIO KO'RISH"
+	},
+	"partners": {
+		"title": "Bizga ishonch bildirgan hamkorlarimiz"
+	},
+	"services": {
+		"title": "Xizmatlarimiz",
+
+		"workwear": {
+			"title": "Ishchi formalar",
+			"description": "Zavod, qurilish va ishlab chiqarish korxonalari uchun."
+		},
+
+		"corporate": {
+			"title": "Korporativ kiyimlar",
+			"description": "Ofis va xizmat ko'rsatish xodimlari uchun."
+		},
+
+		"custom": {
+			"title": "Maxsus buyurtmalar",
+			"description": "Mijoz namunasi asosida tikish."
+		},
+
+		"mass-production": {
+			"title": "Ommaviy ishlab chiqarish",
+			"description": "Katta hajmdagi buyurtmalar uchun."
+		}
+	},
+	"portfolio": {
+		"title": "Portfolio",
+		"partfolioPageTitle": "BARCHA ISHLARIMIZNI KO'RISH",
+
+		"1": {
+			"title": "Ishchi forma",
+			"description": "Zavod va ishlab chiqarish korxonalari uchun maxsus tikilgan ishchi forma.",
+			"material": "Paxta va polyester aralashmasi",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"2": {
+			"title": "Qurilish formasi",
+			"description": "Qurilish maydonlarida foydalanish uchun mustahkam forma.",
+			"material": "Yuqori zichlikdagi mato",
+			"color": "To'q sariq",
+			"season": "Barcha mavsumlar"
+		},
+
+		"3": {
+			"title": "Korporativ forma",
+			"description": "Ofis va xizmat ko'rsatish xodimlari uchun forma.",
+			"material": "Premium kostyumbop mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"4": {
+			"title": "Payvandchi formasi",
+			"description": "Payvandlash ishlari uchun himoyalangan forma.",
+			"material": "Issiqlikka chidamli mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"5": {
+			"title": "Elektrik formasi",
+			"description": "Elektr montaj ishlari uchun xavfsiz forma.",
+			"material": "Dielektrik mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"6": {
+			"title": "Omborxona formasi",
+			"description": "Logistika va ombor xodimlari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"7": {
+			"title": "Restoran formasi",
+			"description": "Oshpaz va xizmat ko'rsatish xodimlari uchun.",
+			"material": "Yengil paxta",
+			"color": "Oq",
+			"season": "Barcha mavsumlar"
+		},
+
+		"8": {
+			"title": "Reception formasi",
+			"description": "Qabulxona xodimlari uchun zamonaviy forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"9": {
+			"title": "Qishki ishchi forma",
+			"description": "Sovuq ob-havo uchun maxsus forma.",
+			"material": "Issiqlik saqlovchi mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"10": {
+			"title": "Yozgi ishchi forma",
+			"description": "Issiq ob-havo uchun yengil forma.",
+			"material": "Nafas oluvchi mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"11": {
+			"title": "Signal formasi",
+			"description": "Yuqori ko'rinishga ega maxsus kiyim.",
+			"material": "Reflektorli mato",
+			"color": "Sariq",
+			"season": "Barcha mavsumlar"
+		},
+
+		"12": {
+			"title": "Muhandis formasi",
+			"description": "Muhandis va texnik xodimlar uchun.",
+			"material": "Premium aralash mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"13": {
+			"title": "Maxsus buyurtma 1",
+			"description": "Mijoz talabiga ko'ra ishlab chiqarilgan forma.",
+			"material": "Individual tanlov",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"14": {
+			"title": "Maxsus buyurtma 2",
+			"description": "Korporativ buyurtma asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"15": {
+			"title": "Maxsus buyurtma 3",
+			"description": "Eksklyuziv dizayn asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"16": {
+			"title": "Kombinezon",
+			"description": "Ishlab chiqarish korxonalari uchun kombinezon.",
+			"material": "Mustahkam mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"17": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+
+		"18": {
+			"title": "Texnik xodim formasi",
+			"description": "Texnik xizmat ko'rsatish mutaxassislari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"19": {
+			"title": "Servis xodimi formasi",
+			"description": "Servis markazlari uchun professional forma.",
+			"material": "Yengil mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"20": {
+			"title": "Xavfsizlik xodimi formasi",
+			"description": "Qo'riqlash xizmatlari uchun maxsus forma.",
+			"material": "Mustahkam mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"21": {
+			"title": "Sklad formasi",
+			"description": "Sklad va logistika markazlari uchun forma.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"22": {
+			"title": "Ishlab chiqarish formasi",
+			"description": "Katta ishlab chiqarish korxonalari uchun forma.",
+			"material": "Paxta va polyester",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"23": {
+			"title": "Premium forma",
+			"description": "Premium segment uchun maxsus forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"24": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"25": {
+			"material": "Matosi",
+			"season": "Mavsum",
+			"color": "Rangi"
+		},
+		"26": {
+			"title": "Ishchi forma",
+			"description": "Zavod va ishlab chiqarish korxonalari uchun maxsus tikilgan ishchi forma.",
+			"material": "Paxta va polyester aralashmasi",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"27": {
+			"title": "Qurilish formasi",
+			"description": "Qurilish maydonlarida foydalanish uchun mustahkam forma.",
+			"material": "Yuqori zichlikdagi mato",
+			"color": "To'q sariq",
+			"season": "Barcha mavsumlar"
+		},
+
+		"28": {
+			"title": "Korporativ forma",
+			"description": "Ofis va xizmat ko'rsatish xodimlari uchun forma.",
+			"material": "Premium kostyumbop mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"29": {
+			"title": "Payvandchi formasi",
+			"description": "Payvandlash ishlari uchun himoyalangan forma.",
+			"material": "Issiqlikka chidamli mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"30": {
+			"title": "Elektrik formasi",
+			"description": "Elektr montaj ishlari uchun xavfsiz forma.",
+			"material": "Dielektrik mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"31": {
+			"title": "Omborxona formasi",
+			"description": "Logistika va ombor xodimlari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"32": {
+			"title": "Restoran formasi",
+			"description": "Oshpaz va xizmat ko'rsatish xodimlari uchun.",
+			"material": "Yengil paxta",
+			"color": "Oq",
+			"season": "Barcha mavsumlar"
+		},
+
+		"33": {
+			"title": "Reception formasi",
+			"description": "Qabulxona xodimlari uchun zamonaviy forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"34": {
+			"title": "Qishki ishchi forma",
+			"description": "Sovuq ob-havo uchun maxsus forma.",
+			"material": "Issiqlik saqlovchi mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"35": {
+			"title": "Yozgi ishchi forma",
+			"description": "Issiq ob-havo uchun yengil forma.",
+			"material": "Nafas oluvchi mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"36": {
+			"title": "Signal formasi",
+			"description": "Yuqori ko'rinishga ega maxsus kiyim.",
+			"material": "Reflektorli mato",
+			"color": "Sariq",
+			"season": "Barcha mavsumlar"
+		},
+
+		"37": {
+			"title": "Muhandis formasi",
+			"description": "Muhandis va texnik xodimlar uchun.",
+			"material": "Premium aralash mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"38": {
+			"title": "Maxsus buyurtma 1",
+			"description": "Mijoz talabiga ko'ra ishlab chiqarilgan forma.",
+			"material": "Individual tanlov",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"39": {
+			"title": "Maxsus buyurtma 2",
+			"description": "Korporativ buyurtma asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"40": {
+			"title": "Maxsus buyurtma 3",
+			"description": "Eksklyuziv dizayn asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"41": {
+			"title": "Kombinezon",
+			"description": "Ishlab chiqarish korxonalari uchun kombinezon.",
+			"material": "Mustahkam mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"42": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+
+		"43": {
+			"title": "Texnik xodim formasi",
+			"description": "Texnik xizmat ko'rsatish mutaxassislari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"44": {
+			"title": "Servis xodimi formasi",
+			"description": "Servis markazlari uchun professional forma.",
+			"material": "Yengil mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"45": {
+			"title": "Xavfsizlik xodimi formasi",
+			"description": "Qo'riqlash xizmatlari uchun maxsus forma.",
+			"material": "Mustahkam mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"46": {
+			"title": "Sklad formasi",
+			"description": "Sklad va logistika markazlari uchun forma.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"47": {
+			"title": "Ishlab chiqarish formasi",
+			"description": "Katta ishlab chiqarish korxonalari uchun forma.",
+			"material": "Paxta va polyester",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"48": {
+			"title": "Premium forma",
+			"description": "Premium segment uchun maxsus forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"49": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"50": {
+			"title": "Maxsus buyurtma 2",
+			"description": "Korporativ buyurtma asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"51": {
+			"title": "Maxsus buyurtma 3",
+			"description": "Eksklyuziv dizayn asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"52": {
+			"title": "Kombinezon",
+			"description": "Ishlab chiqarish korxonalari uchun kombinezon.",
+			"material": "Mustahkam mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"53": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+
+		"54": {
+			"title": "Texnik xodim formasi",
+			"description": "Texnik xizmat ko'rsatish mutaxassislari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"55": {
+			"title": "Servis xodimi formasi",
+			"description": "Servis markazlari uchun professional forma.",
+			"material": "Yengil mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"56": {
+			"title": "Xavfsizlik xodimi formasi",
+			"description": "Qo'riqlash xizmatlari uchun maxsus forma.",
+			"material": "Mustahkam mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"57": {
+			"title": "Sklad formasi",
+			"description": "Sklad va logistika markazlari uchun forma.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+
+		"58": {
+			"title": "Ishlab chiqarish formasi",
+			"description": "Katta ishlab chiqarish korxonalari uchun forma.",
+			"material": "Paxta va polyester",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+
+		"59": {
+			"title": "Premium forma",
+			"description": "Premium segment uchun maxsus forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+
+		"60": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"labels": {
+			"material": "Matosi",
+			"season": "Mavsumi",
+			"color": "Rangi"
+		}
+	},
+	"portfolioPage": {
+		"title": "PORTFOLIO",
+		"backBtn": "ORTGA",
+		"categories": {
+			"summer": "Yozgi kiyimlar",
+			"winter": "Qishki kiyimlar",
+			"shoes": "Oyoq kiyimlari",
+			"protection": "Himoya vositalari",
+			"mass": "Ommaviy kiyimlar"
+		}
+	},
+	"about": {
+		"label": "Biz haqimizda",
+		"title": "Tajriba va sifatga asoslangan ishlab chiqarish",
+		"description": "Kompaniyamiz korporativ ishchi formalar, maxsus kiyimlar va individual buyurtmalar ishlab chiqarishga ixtisoslashgan.",
+		"features": {
+			"quality": "Sifatli matolar",
+			"specialists": "Tajribali mutaxassislar",
+			"delivery": "O'z vaqtida yetkazib berish",
+			"approach": "Individual yondashuv"
+		},
+		"button": "KO'PROQ MA'LUMOT"
+	},
+	"process": {
+		"title": "Buyurtma jarayoni",
+
+		"step1": "Buyurtma qabul qilinadi",
+		"step2": "Model tanlanadi yoki namunadan olinadi",
+		"step3": "Mato tanlanadi va xarid qilinadi",
+		"step4": "Mutaxassis tomonidan namuna tikiladi",
+		"step5": "Namuna mijozga taqdim etiladi",
+		"step6": "O'lchamlar olinadi",
+		"step7": "Materiallar ishlab chiqarishga topshiriladi",
+		"step8": "Tayyor mahsulot topshiriladi"
+	},
+	"stats": {
+		"title": "Bizning natijalarimiz",
+		"projects": "Tugallangan loyihalar",
+		"clothes": "Tikilgan kiyimlar",
+		"partners": "Hamkor korxonalar",
+		"satisfaction": "Mijozlar mamnunligi"
+	},
+	"contact": {
+		"title": "Aloqa",
+
+		"phone": {
+			"title": "Telefon",
+			"info": "Dushanba–Shanba\n09:00–19:00"
+		},
+
+		"telegram": {
+			"title": "Telegram",
+			"info": "Tezkor javob"
+		},
+
+		"email": {
+			"title": "Email",
+			"info": "24 soat ichida javob"
+		},
+
+		"address": {
+			"title": "Manzil",
+			"city": "Toshkent sh.",
+			"district": "Shayxontohur tumani"
+		}
+	},
+	"form": {
+		"name": "Ismingiz *",
+		"company": "Kompaniya nomi *",
+		"selectProduct": "Qanday mahsulot kerak?",
+		"phone": "+998 90 123 45 67",
+		"send": "YUBORISH",
+		"sending": "Yuborilmoqda...",
+		"successTitle": "Muvaffaqiyatli yuborildi!",
+		"successText": "Tez orada siz bilan bog'lanamiz.",
+		"newRequest": "Yangi ariza",
+		"error": "Xatolik yuz berdi. Qayta urinib ko'ring.",
+		"products": {
+			"workwear": "Ishchi forma",
+			"corporate": "Korporativ forma",
+			"custom": "Maxsus buyurtma",
+			"mass": "Ommaviy kiyimlar"
+		},
+		"errors": {
+			"name": "Ismingizni kiriting",
+			"company": "Kompaniya nomini kiriting",
+			"product": "Mahsulot turini tanlang",
+			"phone": "Telefon raqamini kiriting",
+			"phoneFormat": "Format: +998 90 123 45 67 yoki 90 123 45 67"
+		}
+	},
+	"telegram": {
+		"title": "Yangi ariza",
+		"name": "Ism",
+		"company": "Kompaniya",
+		"product": "Mahsulot",
+		"phone": "Telefon"
+	},
+	"aboutDetailsHero": {
+		"eyebrow": "Sifat – Ishonch – Mas'uliyat",
+		"title": {
+			"line1": "Sifatli tikuv.",
+			"line2": "Ishonchli hamkorlik."
+		},
+		"description": "Har bir buyurtma ortida katta mas'uliyat turadi. Biz uchun sifat – bu shunchaki tikuv emas, bu mijozimizning bizga bo'lgan ishonchidir.",
+		"features": {
+			"quality": {
+				"title": "Sifat kafolati",
+				"description": "Har bir mahsulot sifat nazoratidan o'tadi"
+			},
+			"responsibility": {
+				"title": "Mas'uliyatli yondashuv",
+				"description": "Buyurtmangizni o'z biznesimizdek qabul qilamiz"
+			},
+			"partnership": {
+				"title": "Ishonchli hamkor",
+				"description": "Muddat va sifatga so'zimiz bor"
+			}
+		},
+		"video": {
+			"alt": "Ishlab chiqarish jarayoni",
+			"text": "Bizning ishlab chiqarish jarayonimiz"
+		}
+	},
+	"promise": {
+		"title": {
+			"line1": "Biz faqat sifatli mahsulot emas,",
+			"line2": "ishonch va xotirjamlik ham yetkazib beramiz."
+		},
+		"description": "Mijozimiz bizga ishonganida, biz yanada yaxshiroq ishlaymiz. Sizning muvaffaqiyatingiz – bizning eng katta maqsadimiz."
+	},
+	"values": {
+		"eyebrow": "Bizning qadriyatlarimiz",
+		"title": "Bizni boshqalardan ajratib turadigan narsa.",
+		"cards": {
+			"quality": {
+				"title": "Sifat",
+				"description": "Yuqori sifatli materiallar va mukammal tikuv – bizning standartimiz."
+			},
+			"trust": {
+				"title": "Ishonch",
+				"description": "Har bir buyurtma – bu bizga bildirilgan ishonch. Biz uni qadrlaymiz."
+			},
+			"time": {
+				"title": "Muddat",
+				"description": "Vaqt – bu pul. Shuning uchun biz har doim vaqtida yetkazamiz."
+			},
+			"precision": {
+				"title": "Aniqlik",
+				"description": "Har bir detalda aniqlik va puxtalik – mukammal natijaning garovi."
+			}
+		}
+	},
+	"whyUs": {
+		"eyebrow": "Nima uchun biz?",
+		"title": "Siz uchun faqat yaxshisini tanlaymiz.",
+		"cards": {
+			"materials": {
+				"title": "Premium materiallar",
+				"description": "Faqat sinovdan o'tgan va sertifikatlangan materiallardan foydalanamiz."
+			},
+			"equipment": {
+				"title": "Zamonaviy uskunalar",
+				"description": "So'nggi texnologiyali uskunalar yordamida aniq va sifatli ishlab chiqarish."
+			},
+			"team": {
+				"title": "Tajribali jamoa",
+				"description": "10+ yillik tajribaga ega mutaxassislar jamoasi bilan ishlaymiz."
+			},
+			"quality": {
+				"title": "Sifat nazorati",
+				"description": "Har bir mahsulot bir necha bosqichli sifat nazoratidan o'tadi."
+			},
+			"delivery": {
+				"title": "O'z vaqtida yetkazish",
+				"description": "Belgilangan muddatda ishonchli va xavfsiz yetkazib berish."
+			},
+			"approach": {
+				"title": "Individual yondashuv",
+				"description": "Har bir mijozning ehtiyojidan kelib chiqib, yagona yechim taklif qilamiz."
+			}
+		}
+	},
+	"testimonials": {
+		"eyebrow": "Mijozlar fikri",
+		"title": "Ular bizga ishonishadi.",
+		"items": {
+			"1": {
+				"name": "Asil Textile",
+				"company": "Xarid bo'limi rahbari",
+				"text": "Buyurtmamiz belgilangan muddatda va juda sifatli tayyorlandi. Jamoa bilan ishlash juda yoqimli va samarali bo'ldi."
+			},
+			"2": {
+				"name": "Modern Wear",
+				"company": "Direktor",
+				"text": "Sifat, aniqlik va mas'uliyat – bularning hammasini Details jamoasida topdik. Doim bizning kutganimizdan ham yaxshi."
+			},
+			"3": {
+				"name": "Elegant Boutique",
+				"company": "Sotib olish menejeri",
+				"text": "Kiyimlar sifati a'lo darajada. Har bir detalga e'tibor berishlari bizni hayratda qoldirdi."
+			},
+			"4": {
+				"name": "Urban Style",
+				"company": "Brend egasi",
+				"text": "Uzoq muddatli hamkorlik uchun ishonchli va mas'uliyatli ishlab chiqaruvchi. Tavsiya qilamiz!"
+			}
+		}
+	},
+	"faq": {
+		"eyebrow": "Ko'p beriladigan savollar",
+		"title": "Savollaringiz bormi?",
+		"items": {
+			"1": {
+				"question": "Minimal buyurtma miqdori qancha?",
+				"answer": "Buyurtma miqdori mahsulot turiga qarab belgilanadi. Batafsil ma'lumot uchun biz bilan bog'laning."
+			},
+			"2": {
+				"question": "Buyurtma tayyor bo'lishi qancha vaqt oladi?",
+				"answer": "Bu mahsulot turi va soniga bog'liq. Odatda ishlab chiqarish muddati oldindan kelishiladi."
+			},
+			"3": {
+				"question": "O'z dizaynim bo'yicha tikib bera olasizmi?",
+				"answer": "Ha. Sizning dizayningiz, o'lchamingiz va talablaringiz asosida mahsulot ishlab chiqaramiz."
+			},
+			"4": {
+				"question": "Yetkazib berish xizmatini ham taklif qilasizmi?",
+				"answer": "Ha. Buyurtmalarni kelishilgan manzilga ishonchli tarzda yetkazib beramiz."
+			},
+			"5": {
+				"question": "Sifat qanday nazorat qilinadi?",
+				"answer": "Har bir mahsulot ishlab chiqarishning bir necha bosqichida tekshiriladi va yakuniy nazoratdan o'tadi."
+			}
+		},
+		"cta": {
+			"title": "Loyihangizni birgalikda amalga oshiramiz.",
+			"description": "Sizning g'oyangiz – bizning tajribamiz va sifatli ishlab chiqarishimiz bilan mukammal mahsulotga aylanadi.",
+			"order": "Buyurtma berish",
+			"telegram": "Telegram orqali bog'lanish"
+		}
+	},
+	"seo": {
+		"home": {
+			"title": "Maxsus ish kiyimlari ishlab chiqarish | Uniforma",
+			"description": "Korxonalar uchun sifatli maxsus ish kiyimlari, uniformalar va korporativ kiyimlar ishlab chiqaramiz."
+		},
+		"portfolio": {
+			"title": "Portfolio | Uniforma",
+			"description": "Biz ishlab chiqargan maxsus ish kiyimlari va uniformalar loyihalari bilan tanishing."
+		}
+	}
+}

@@ -1,0 +1,110 @@
+.language {
+	position: relative;
+	margin-right: 25px;
+}
+
+/* ---------- Button ---------- */
+
+.language__btn {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 16px;
+	border-radius: 12px;
+	cursor: pointer;
+	font-weight: 600;
+	font-size: 15px;
+	transition: 0.25s;
+	border: 1px solid;
+}
+
+body[data-theme='light'] .language__btn {
+	background: #fff;
+	color: #111827;
+	border-color: #e5e7eb;
+}
+
+body[data-theme='light'] .language__btn:hover {
+	border-color: #2563eb;
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+body[data-theme='dark'] .language__btn {
+	background: #1f2937;
+	color: #fff;
+	border-color: #374151;
+}
+
+body[data-theme='dark'] .language__btn:hover {
+	border-color: #3b82f6;
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+}
+
+/* ---------- Arrow ---------- */
+
+.rotate {
+	transform: rotate(180deg);
+	transition: 0.25s;
+}
+
+/* ---------- Menu ---------- */
+
+.language__menu {
+	position: absolute;
+	top: 110%;
+	right: 0;
+	width: 190px;
+	border-radius: 14px;
+	border: 1px solid;
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+	overflow: hidden;
+	z-index: 999;
+}
+
+body[data-theme='light'] .language__menu {
+	background: #fff;
+	border-color: #e5e7eb;
+}
+
+body[data-theme='dark'] .language__menu {
+	background: #1f2937;
+	border-color: #374151;
+}
+
+/* ---------- Menu Item ---------- */
+
+.language__item {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 12px 16px;
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+	transition: 0.2s;
+}
+
+body[data-theme='light'] .language__item {
+	color: #111827;
+}
+
+body[data-theme='light'] .language__item:hover {
+	background: #f3f8ff;
+}
+
+body[data-theme='dark'] .language__item {
+	color: #fff;
+}
+
+body[data-theme='dark'] .language__item:hover {
+	background: #374151;
+}
+
+/* ---------- Active ---------- */
+
+.language__item.active {
+	color: #2563eb;
+	font-weight: 700;
+}
