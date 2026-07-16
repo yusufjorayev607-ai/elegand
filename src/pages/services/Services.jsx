@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { useFetch } from '../../hooks/useFetch'
-import Loading from '../loading/loading'
+import Loading from '../loading/Loading'
 import './services.css'
 
 function Services() {
