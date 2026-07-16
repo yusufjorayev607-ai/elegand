@@ -5,7 +5,7 @@ import { useSearchParams } from 'react-router-dom'
 import { HashLink } from 'react-router-hash-link'
 import SEO from '../../components/SEO'
 import { useFetch } from '../../hooks/useFetch'
-import Loading from '../loading/loading'
+import Loading from '../loading/Loading'
 import PortfolioModal from './PortfolioModal'
 import './portfoliopage.css'
 

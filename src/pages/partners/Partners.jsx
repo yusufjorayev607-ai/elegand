@@ -2,7 +2,7 @@ import { useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { IoChevronBack, IoChevronForward } from 'react-icons/io5'
 import { useFetch } from '../../hooks/useFetch'
-import Loading from '../loading/loading'
+import Loading from '../loading/Loading'
 import './partners.css'
 
 function Partners() {
