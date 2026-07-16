@@ -98,6 +98,7 @@ small {
 	.modal-image {
 		height: 100%;
 		width: 100%;
+		margin-top: 18px;
 	}
 	.modal__info {
 		margin-left: 0;
@@ -122,6 +123,7 @@ small {
 	}
 	.modal-image {
 		width: 100%;
+		margin-top: 18px;
 	}
 	.modal__info {
 		margin-left: 0;

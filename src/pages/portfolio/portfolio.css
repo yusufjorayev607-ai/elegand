@@ -12,6 +12,7 @@
 	overflow: hidden;
 	border-radius: 12px;
 	text-decoration: none;
+	background-color: #fff;
 }
 
 .portfolio__image-img {
@@ -40,7 +41,7 @@
 	background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
 	.portfolio__image {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
@@ -50,10 +51,6 @@
 
 	.portfolio__image-item {
 		width: 100%;
-	}
-
-	.portfolio__image-item:last-child {
-		display: none;
 	}
 
 	.portfolio__image-img {
@@ -66,7 +63,7 @@
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	.portfolio__image {
 		grid-template-columns: 1fr;
 	}

@@ -27,7 +27,9 @@ body[data-theme='light'] button {
 }
 body[data-theme='light'] .hero,
 body[data-theme='light'] .hero a,
-body[data-theme='light'] .hero button {
+body[data-theme='light'] .hero button,
+body[data-theme='light'] .btn--primary,
+body[data-theme='light'] .btn--secondary {
 	color: #fff;
 }
 

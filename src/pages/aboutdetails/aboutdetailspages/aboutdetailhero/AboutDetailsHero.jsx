@@ -12,7 +12,7 @@ function AboutDetailsHero() {
 	return (
 		<section className='about-details' id='aboutdetails'>
 			<div className='container'>
-				<Link to='/' className='btn btn--primary'>
+				<Link to='/' className='btn portfolio__page-headr-btn'>
 					<FaArrowLeft />
 				</Link>
 

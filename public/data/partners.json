@@ -34,21 +34,6 @@
 			"name": "Rayal",
 			"logo": "/image/artel-electronics-logo-brandlogos.net_bctympss5.svg",
 			"logoDark": "image/artel-electronics-logo-brandlogos.net_bctympss5.svg"
-		},
-		{
-			"name": "Rayal0",
-			"logo": "/image/partnors/dreamLevel-light.svg",
-			"logoDark": "/image/partnors/dreamLevel-dark.svg"
-		},
-		{
-			"name": "Rayal1",
-			"logo": "/image/partnors/cy-90-light.svg",
-			"logoDark": "/image/partnors/cy-90-dark.svg"
-		},
-		{
-			"name": "Rayal2",
-			"logo": "/image/partnors/aysel-energy-light.svg",
-			"logoDark": "/image/partnors/aysel-energy-darc.svg"
 		}
 	]
 }
