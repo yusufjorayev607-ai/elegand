@@ -1,12 +1,13 @@
 import { useTranslation } from 'react-i18next'
 import { useFetch } from '../../hooks/useFetch'
+import Loading from '../loading/loading'
 import './services.css'
 
 function Services() {
 	const { t } = useTranslation()
 	const { data, isPending, error } = useFetch('/data/services.json')
 
-	if (isPending) return <div className='loader'>Yuklanmoqda...</div>
+	if (isPending) return <Loading />
 	if (error) return <div className='error'>{error}</div>
 	if (!data) return null
 

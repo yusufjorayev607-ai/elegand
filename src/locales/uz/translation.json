@@ -769,5 +769,9 @@
 			"title": "Portfolio | Uniforma",
 			"description": "Biz ishlab chiqargan maxsus ish kiyimlari va uniformalar loyihalari bilan tanishing."
 		}
+	},
+	"error": {
+		"statusText": "Bu sahifa topilmadi",
+		"description": "siz qidiryotgan sahifa topilmadi qayta urnip koring"
 	}
 }

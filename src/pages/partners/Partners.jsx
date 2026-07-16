@@ -2,6 +2,7 @@ import { useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { IoChevronBack, IoChevronForward } from 'react-icons/io5'
 import { useFetch } from '../../hooks/useFetch'
+import Loading from '../loading/loading'
 import './partners.css'
 
 function Partners() {
@@ -23,7 +24,7 @@ function Partners() {
 		})
 	}
 
-	if (isPending) return <div className='loader'>Yuklanmoqda...</div>
+	if (isPending) return <Loading />
 	if (error) return <div className='error'>{error}</div>
 	if (!data) return null
 

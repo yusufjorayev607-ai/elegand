@@ -16,7 +16,7 @@ function Portfolio() {
 			id: 2,
 			category: 'sezon-qishki',
 			title: 'winter',
-			image: '/image/portfolio/summer/portfolio-summer-2.png',
+			image: '/image/portfolio/winter/Winter-9.jpg',
 		},
 		{
 			id: 3,
@@ -28,13 +28,13 @@ function Portfolio() {
 			id: 4,
 			category: 'himoya-vositalari',
 			title: 'protection',
-			image: '/image/portfolio/summer/portfolio-summer-6.png',
+			image: '/image/portfolio/himoyavositalari/Protective-equipment-5.jpg',
 		},
 		{
 			id: 5,
 			category: 'ommaviy-kiyimlar',
 			title: 'mass',
-			image: '/image/portfolio/summer/portfolio-summer-13.png',
+			image: '/image/portfolio/ommaviyKiymlar/Mass-produced-1.PNG',
 		},
 	]
 

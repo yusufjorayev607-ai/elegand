@@ -5,6 +5,7 @@ import { useSearchParams } from 'react-router-dom'
 import { HashLink } from 'react-router-hash-link'
 import SEO from '../../components/SEO'
 import { useFetch } from '../../hooks/useFetch'
+import Loading from '../loading/loading'
 import PortfolioModal from './PortfolioModal'
 import './portfoliopage.css'
 
@@ -14,7 +15,7 @@ function PortfolioPage() {
 	const [searchParams] = useSearchParams()
 	const { t } = useTranslation()
 
-	if (isPending) return <div className='loader'>Yuklanmoqda...</div>
+	if (isPending) return <Loading />
 	if (error) return <div className='error'>{error}</div>
 	if (!data) return null
 
