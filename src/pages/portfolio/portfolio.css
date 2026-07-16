@@ -52,9 +52,7 @@
 		width: 100%;
 	}
 
-	.portfolio__image-item:last-child {
-		display: none;
-	}
+	
 
 	.portfolio__image-img {
 		width: 100%;
