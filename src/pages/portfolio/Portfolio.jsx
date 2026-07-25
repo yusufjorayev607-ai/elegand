@@ -19,17 +19,18 @@ function Portfolio() {
 			image: '/image/portfolio/winter/Winter-9.jpg',
 		},
 		{
-			id: 3,
-			category: 'oyoq-kiyimlar',
-			title: 'shoes',
-			image: '/image/portfolio/obuv/shoe_3x4.jpg',
-		},
-		{
 			id: 4,
 			category: 'himoya-vositalari',
 			title: 'protection',
 			image: '/image/portfolio/himoyavositalari/Protective-equipment-5.jpg',
 		},
+		{
+			id: 3,
+			category: 'oyoq-kiyimlar',
+			title: 'shoes',
+			image: '/image/portfolio/obuv/shoe_3x4.jpg',
+		},
+
 		{
 			id: 5,
 			category: 'kepka',
