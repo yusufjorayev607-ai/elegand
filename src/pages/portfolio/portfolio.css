@@ -17,8 +17,7 @@
 
 .portfolio__image-img {
 	display: block;
-	width: 436px;
-	height: 581px;
+	width: 100%;
 	object-fit: contain;
 	margin: 0;
 	border-radius: 12px;
