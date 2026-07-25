@@ -1,6 +1,7 @@
 .portfolio__image {
-	display: flex;
-	justify-content: space-between;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
 	margin-bottom: 50px;
 	width: 100%;
 }
@@ -8,7 +9,6 @@
 .portfolio__image-item {
 	position: relative;
 	display: block;
-	width: 238px;
 	overflow: hidden;
 	border-radius: 12px;
 	text-decoration: none;
@@ -17,7 +17,9 @@
 
 .portfolio__image-img {
 	display: block;
-	width: 100%;
+	width: 436px;
+	height: 581px;
+	object-fit: contain;
 	margin: 0;
 	border-radius: 12px;
 	transition: transform 0.4s ease;
@@ -50,7 +52,8 @@
 	}
 
 	.portfolio__image-item {
-		width: 100%;
+		width: 350px;
+		height: 466px;
 	}
 	.portfolio__image-img {
 		width: 100%;
@@ -64,11 +67,15 @@
 
 @media (max-width: 767px) {
 	.portfolio__image {
-		grid-template-columns: 1fr;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 20px;
 	}
 
 	.portfolio__image-item {
-		width: 100%;
+		width: 350px;
+		height: 466px;
 	}
 
 	.portfolio__btn {

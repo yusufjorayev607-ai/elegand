@@ -1,423 +1,471 @@
 {
 	"portfolio": [
+		"sezon-yozgi--------------------------------------------------------------------",
 		{
-			"id": 1,
-			"slug": "1",
+			"slug": "sezon-yozgi-1",
 			"image": "/image/portfolio/summer/portfolio-summer-1.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 2,
-			"slug": "2",
+			"slug": "sezon-yozgi-2",
 			"image": "/image/portfolio/summer/portfolio-summer-2.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 3,
-			"slug": "3",
+			"slug": "sezon-yozgi-3",
 			"image": "/image/portfolio/summer/portfolio-summer-3.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 4,
-			"slug": "4",
+			"slug": "sezon-yozgi-4",
 			"image": "/image/portfolio/summer/portfolio-summer-4.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 5,
-			"slug": "5",
+			"slug": "sezon-yozgi-5",
 			"image": "/image/portfolio/summer/portfolio-summer-5.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 6,
-			"slug": "6",
+			"slug": "sezon-yozgi-6",
 			"image": "/image/portfolio/summer/portfolio-summer-6.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 7,
-			"slug": "7",
+			"slug": "sezon-yozgi-7",
 			"image": "/image/portfolio/summer/portfolio-summer-7.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 8,
-			"slug": "8",
+			"slug": "sezon-yozgi-8",
 			"image": "/image/portfolio/summer/portfolio-summer-8.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 9,
-			"slug": "9",
+			"slug": "sezon-yozgi-9",
 			"image": "/image/portfolio/summer/portfolio-summer-9.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 10,
-			"slug": "10",
+			"slug": "sezon-yozgi-10",
 			"image": "/image/portfolio/summer/portfolio-summer-10.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 11,
-			"slug": "11",
+			"slug": "sezon-yozgi-11",
 			"image": "/image/portfolio/summer/portfolio-summer-11.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 12,
-			"slug": "12",
+			"slug": "sezon-yozgi-12",
 			"image": "/image/portfolio/summer/portfolio-summer-12.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
 		{
-			"id": 13,
-			"slug": "13",
+			"slug": "sezon-yozgi-13",
 			"image": "/image/portfolio/summer/portfolio-summer-13.png",
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
+		"sezon-qishki--------------------------------------------------------------------",
 		{
-			"id": 14,
-			"slug": "14",
+			"slug": "sezon-qishki-1",
 			"image": "/image/portfolio/winter/Winter-1.png",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 15,
-			"slug": "15",
+			"slug": "sezon-qishki-2",
 			"image": "/image/portfolio/winter/Winter-2.png",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 16,
-			"slug": "16",
+			"slug": "sezon-qishki-3",
 			"image": "/image/portfolio/winter/Winter-3.png",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 17,
-			"slug": "17",
+			"slug": "sezon-qishki-4",
 			"image": "/image/portfolio/winter/Winter-4.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 18,
-			"slug": "18",
+			"slug": "sezon-qishki-5",
 			"image": "/image/portfolio/winter/Winter-5.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 19,
-			"slug": "19",
+			"slug": "sezon-qishki-6",
 			"image": "/image/portfolio/winter/Winter-6.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 20,
-			"slug": "20",
+			"slug": "sezon-qishki-7",
 			"image": "/image/portfolio/winter/Winter-7.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 21,
-			"slug": "21",
+			"slug": "sezon-qishki-8",
 			"image": "/image/portfolio/winter/Winter-8.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 22,
-			"slug": "22",
+			"slug": "sezon-qishki-9",
 			"image": "/image/portfolio/winter/Winter-9.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 23,
-			"slug": "23",
+			"slug": "sezon-qishki-10",
 			"image": "/image/portfolio/winter/Winter-10.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 24,
-			"slug": "24",
+			"slug": "sezon-qishki-11",
 			"image": "/image/portfolio/winter/Winter-11.jpg",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},
 		{
-			"id": 25,
-			"slug": "25",
+			"slug": "sezon-qishki-12",
 			"image": "/image/portfolio/winter/Winter-12.jpg",
+			"category": "sezon-qishki",
+			"price": "150 000"
+		},
+		"oyoq-kiyimlar--------------------------------------------------------------------",
+		{
+			"slug": "oyoq-kiyimlar-1",
+			"image": "/image/portfolio/obuv/shoe_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 26,
-			"slug": "26",
-			"image": "/image/portfolio/summer/portfolio-summer-1.png",
+			"slug": "oyoq-kiyimlar-2",
+			"image": "/image/portfolio/obuv/shoe2_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 27,
-			"slug": "27",
-			"image": "/image/portfolio/summer/portfolio-summer-6.png",
+			"slug": "oyoq-kiyimlar-3",
+			"image": "/image/portfolio/obuv/shoe3_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 28,
-			"slug": "28",
-			"image": "/image/portfolio/summer/portfolio-summer-7.png",
+			"slug": "oyoq-kiyimlar-4",
+			"image": "/image/portfolio/obuv/shoe4_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 29,
-			"slug": "29",
-			"image": "/image/portfolio/summer/portfolio-summer-8.png",
+			"slug": "oyoq-kiyimlar-5",
+			"image": "/image/portfolio/obuv/shoe5_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 30,
-			"slug": "30",
-			"image": "/image/portfolio/summer/portfolio-summer-9.png",
+			"slug": "oyoq-kiyimlar-6",
+			"image": "/image/portfolio/obuv/shoe6_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 31,
-			"slug": "31",
-			"image": "/image/portfolio/summer/portfolio-summer-10.png",
+			"slug": "oyoq-kiyimlar-7",
+			"image": "/image/portfolio/obuv/shoe7_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 32,
-			"slug": "32",
-			"image": "/image/portfolio/summer/portfolio-summer-11.png",
+			"slug": "oyoq-kiyimlar-8",
+			"image": "/image/portfolio/obuv/shoe8_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 33,
-			"slug": "33",
-			"image": "/image/portfolio/summer/portfolio-summer-12.png",
+			"slug": "oyoq-kiyimlar-9",
+			"image": "/image/portfolio/obuv/shoe9_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 34,
-			"slug": "34",
-			"image": "/image/portfolio/summer/portfolio-summer-13.png",
+			"slug": "oyoq-kiyimlar-10",
+			"image": "/image/portfolio/obuv/shoe10_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 35,
-			"slug": "35",
-			"image": "/image/portfolio/summer/portfolio-summer-5.png",
+			"slug": "oyoq-kiyimlar-11",
+			"image": "/image/portfolio/obuv/shoe11_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 36,
-			"slug": "36",
-			"image": "/image/portfolio/summer/portfolio-summer-4.png",
+			"slug": "oyoq-kiyimlar-12",
+			"image": "/image/portfolio/obuv/shoe12_3x4.jpg",
 			"category": "oyoq-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 37,
-			"slug": "37",
+			"slug": "oyoq-kiyimlar-13",
+			"image": "/image/portfolio/obuv/shoe13_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-14",
+			"image": "/image/portfolio/obuv/shoe14_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-15",
+			"image": "/image/portfolio/obuv/shoe15_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-16",
+			"image": "/image/portfolio/obuv/shoe16_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-17",
+			"image": "/image/portfolio/obuv/shoe17_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-18",
+			"image": "/image/portfolio/obuv/shoe18_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-19",
+			"image": "/image/portfolio/obuv/shoe19_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-20",
+			"image": "/image/portfolio/obuv/shoe20_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-21",
+			"image": "/image/portfolio/obuv/shoe21_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-22",
+			"image": "/image/portfolio/obuv/shoe22_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "oyoq-kiyimlar-23",
+			"image": "/image/portfolio/obuv/shoe23_3x4.jpg",
+			"category": "oyoq-kiyimlar",
+			"price": "150 000"
+		},
+		"himoya-vositalari--------------------------------------------------------------------",
+		{
+			"slug": "himoya-vositalari-1",
 			"image": "/image/portfolio/himoyavositalari/Protective-equipment-5.jpg",
 			"category": "himoya-vositalari",
 			"price": "150 000"
 		},
 		{
-			"id": 38,
-			"slug": "38",
+			"slug": "himoya-vositalari-2",
 			"image": "/image/portfolio/himoyavositalari/Protective-equipment-6.jpg",
 			"category": "himoya-vositalari",
 			"price": "150 000"
 		},
 		{
-			"id": 39,
-			"slug": "39",
-			"image": "/image/portfolio/himoyavositalari/Protective-equipment-3.jpg",
-			"category": "himoya-vositalari",
-			"price": "150 000"
-		},
-		{
-			"id": 40,
-			"slug": "40",
+			"slug": "himoya-vositalari-3",
 			"image": "/image/portfolio/himoyavositalari/Protective-equipment-4.jpg",
 			"category": "himoya-vositalari",
 			"price": "150 000"
 		},
 		{
-			"id": 41,
-			"slug": "41",
-			"image": "/image/portfolio/himoyavositalari/Protective-equipment-1.png",
+			"slug": "himoya-vositalari-4",
+			"image": "/image/portfolio/himoyavositalari/Protective-equipment-3.jpg",
 			"category": "himoya-vositalari",
 			"price": "150 000"
 		},
 		{
-			"id": 42,
-			"slug": "42",
+			"slug": "himoya-vositalari-5",
 			"image": "/image/portfolio/himoyavositalari/Protective-equipment-2.png",
 			"category": "himoya-vositalari",
 			"price": "150 000"
 		},
 		{
-			"id": 43,
-			"slug": "43",
-			"image": "/image/portfolio/summer/portfolio-summer-10.png",
-			"category": "himoya-1",
+			"slug": "himoya-vositalari-6",
+			"image": "/image/portfolio/himoyavositalari/Protective-equipment-1.png",
+			"category": "himoya-vositalari",
 			"price": "150 000"
 		},
+		"ommaviy-kiyimlar--------------------------------------------------------------------",
 		{
-			"id": 44,
-			"slug": "44",
-			"image": "/image/portfolio/summer/portfolio-summer-9.png",
-			"category": "himoya-1",
-			"price": "150 000"
-		},
-		{
-			"id": 45,
-			"slug": "45",
-			"image": "/image/portfolio/summer/portfolio-summer-8.png",
-			"category": "himoya-1",
-			"price": "150 000"
-		},
-		{
-			"id": 46,
-			"slug": "46",
-			"image": "/image/portfolio/summer/portfolio-summer-7.png",
-			"category": "himoya-1",
-			"price": "150 000"
-		},
-		{
-			"id": 47,
-			"slug": "47",
-			"image": "/image/portfolio/summer/portfolio-summer-6.png",
-			"category": "himoya-1",
-			"price": "150 000"
-		},
-		{
-			"id": 48,
-			"slug": "48",
-			"image": "/image/portfolio/summer/portfolio-summer-5.png",
-			"category": "himoya-1",
-			"price": "150 000"
-		},
-		{
-			"id": 49,
-			"slug": "49",
+			"slug": "ommaviy-kiyimlar-1",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-1.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 50,
-			"slug": "50",
+			"slug": "ommaviy-kiyimlar-2",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-2.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 51,
-			"slug": "51",
+			"slug": "ommaviy-kiyimlar-3",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-3.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 52,
-			"slug": "52",
+			"slug": "ommaviy-kiyimlar-4",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-4.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 53,
-			"slug": "54",
+			"slug": "ommaviy-kiyimlar-5",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-5.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 54,
-			"slug": "54",
+			"slug": "ommaviy-kiyimlar-6",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-6.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 55,
-			"slug": "55",
+			"slug": "ommaviy-kiyimlar-7",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-7.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 56,
-			"slug": "56",
+			"slug": "ommaviy-kiyimlar-8",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-8.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 57,
-			"slug": "57",
+			"slug": "ommaviy-kiyimlar-9",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-9.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 58,
-			"slug": "58",
+			"slug": "ommaviy-kiyimlar-10",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-10.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 59,
-			"slug": "59",
+			"slug": "ommaviy-kiyimlar-11",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-11.PNG",
 			"category": "ommaviy-kiyimlar",
 			"price": "150 000"
 		},
 		{
-			"id": 60,
-			"slug": "60",
+			"slug": "ommaviy-kiyimlar-12",
 			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-12.PNG",
 			"category": "ommaviy-kiyimlar",
+			"price": "150 000"
+		},
+		{
+			"slug": "ommaviy-kiyimlar-13",
+			"image": "/image/portfolio/ommaviyKiymlar/Mass-produced-13.PNG",
+			"category": "ommaviy-kiyimlar",
+			"price": "150 000"
+		},
+		"kepka--------------------------------------------------------------------",
+		{
+			"slug": "kepka-1",
+			"image": "/image/portfolio/kepka/cap24_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-2",
+			"image": "/image/portfolio/kepka/cap25_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-3",
+			"image": "/image/portfolio/kepka/cap26_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-4",
+			"image": "/image/portfolio/kepka/cap27_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-5",
+			"image": "/image/portfolio/kepka/cap28_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-6",
+			"image": "/image/portfolio/kepka/cap29_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-7",
+			"image": "/image/portfolio/kepka/cap30_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-8",
+			"image": "/image/portfolio/kepka/cap31_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-9",
+			"image": "/image/portfolio/kepka/cap32_white_bg.jpg",
+			"category": "kepka",
+			"price": "150 000"
+		},
+		{
+			"slug": "kepka-10",
+			"image": "/image/portfolio/kepka/cap33_white_bg.jpg",
+			"category": "kepka",
 			"price": "150 000"
 		}
 	]

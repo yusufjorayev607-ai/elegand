@@ -34,423 +34,500 @@
 		}
 	},
 	"portfolio": {
-		"1": {
-			"title": "İş kıyafeti",
-			"description": "Fabrikalar ve üretim işletmeleri için özel dikilen iş kıyafeti.",
+		"sezon-yozgi-1": {
+			"title": "İş forması",
+			"description": "Fabrikalar ve üretim tesisleri için özel olarak dikilmiş iş forması.",
 			"material": "Pamuk ve polyester karışımı",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
 		},
-		"2": {
-			"title": "İnşaat kıyafeti",
-			"description": "İnşaat sahalarında kullanım için dayanıklı kıyafet.",
+		"sezon-yozgi-2": {
+			"title": "İnşaat forması",
+			"description": "İnşaat sahalarında kullanım için dayanıklı forma.",
 			"material": "Yüksek yoğunluklu kumaş",
-			"color": "Koyu turuncu",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu sarı",
+			"season": "Tüm mevsimler"
 		},
-		"3": {
-			"title": "Kurumsal kıyafet",
-			"description": "Ofis ve hizmet personeli için kıyafet.",
-			"material": "Premium takım elbise kumaşı",
+		"sezon-yozgi-3": {
+			"title": "Kurumsal forma",
+			"description": "Ofis ve hizmet personeli için forma.",
+			"material": "Premium takım elbiselik kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"4": {
-			"title": "Kaynakçı kıyafeti",
-			"description": "Kaynak işleri için koruyucu kıyafet.",
+		"sezon-yozgi-4": {
+			"title": "Kaynakçı forması",
+			"description": "Kaynak işleri için korumalı forma.",
 			"material": "Isıya dayanıklı kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"5": {
-			"title": "Elektrikçi kıyafeti",
-			"description": "Elektrik montaj işleri için güvenli kıyafet.",
+		"sezon-yozgi-5": {
+			"title": "Elektrikçi forması",
+			"description": "Elektrik montaj işleri için güvenli forma.",
 			"material": "Dielektrik kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"6": {
-			"title": "Depo kıyafeti",
-			"description": "Lojistik ve depo personeli için.",
+		"sezon-yozgi-6": {
+			"title": "Depo forması",
+			"description": "Lojistik ve depo çalışanları için.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"7": {
-			"title": "Restoran kıyafeti",
+		"sezon-yozgi-7": {
+			"title": "Restoran forması",
 			"description": "Aşçılar ve servis personeli için.",
 			"material": "Hafif pamuk",
 			"color": "Beyaz",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"8": {
-			"title": "Resepsiyon kıyafeti",
-			"description": "Resepsiyon personeli için modern kıyafet.",
+		"sezon-yozgi-8": {
+			"title": "Resepsiyon forması",
+			"description": "Resepsiyon çalışanları için modern forma.",
 			"material": "Premium kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"9": {
-			"title": "Kışlık iş kıyafeti",
-			"description": "Soğuk hava için özel kıyafet.",
-			"material": "Isı yalıtımlı kumaş",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+		"sezon-yozgi-9": {
+			"title": "Kışlık iş forması",
+			"description": "Soğuk hava koşulları için özel forma.",
+			"material": "Isı tutucu kumaş",
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
 		},
-		"10": {
-			"title": "Yazlık iş kıyafeti",
-			"description": "Sıcak hava için hafif kıyafet.",
-			"material": "Nefes alabilen kumaş",
+		"sezon-yozgi-10": {
+			"title": "Yazlık iş forması",
+			"description": "Sıcak hava için hafif forma.",
+			"material": "Nefes alan kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"11": {
-			"title": "Sinyal kıyafeti",
+		"sezon-yozgi-11": {
+			"title": "Sinyal forması",
 			"description": "Yüksek görünürlüğe sahip özel kıyafet.",
 			"material": "Reflektörlü kumaş",
 			"color": "Sarı",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"12": {
-			"title": "Mühendis kıyafeti",
+		"sezon-yozgi-12": {
+			"title": "Mühendis forması",
 			"description": "Mühendisler ve teknik personel için.",
-			"material": "Premium karışım kumaş",
+			"material": "Premium karışık kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"13": {
+		"sezon-yozgi-13": {
 			"title": "Özel sipariş 1",
-			"description": "Müşteri talebine göre üretilen kıyafet.",
+			"description": "Müşteri talebine göre üretilen forma.",
 			"material": "Bireysel seçim",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"14": {
+		"sezon-qishki-1": {
 			"title": "Özel sipariş 2",
-			"description": "Kurumsal sipariş temelinde dikilmiştir.",
+			"description": "Kurumsal sipariş üzerine dikilmiştir.",
 			"material": "Premium kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"15": {
+		"sezon-qishki-2": {
 			"title": "Özel sipariş 3",
-			"description": "Özel tasarıma göre dikilmiştir.",
+			"description": "Özel tasarım esasında dikilmiştir.",
 			"material": "Premium kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"16": {
+		"sezon-qishki-3": {
 			"title": "Tulum",
-			"description": "Üretim işletmeleri için tulum.",
+			"description": "Üretim tesisleri için tulum.",
 			"material": "Dayanıklı kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"17": {
-			"title": "Petrol-gaz kıyafeti",
-			"description": "Petrol ve gaz sanayii için özel kıyafet.",
-			"material": "Yanmaz kumaş",
+		"sezon-qishki-4": {
+			"title": "Petrol-gaz forması",
+			"description": "Petrol ve gaz sanayi için özel forma.",
+			"material": "Yangına dayanıklı kumaş",
 			"color": "Kırmızı",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"18": {
-			"title": "Teknisyen kıyafeti",
+		"sezon-qishki-5": {
+			"title": "Teknik personel forması",
 			"description": "Teknik servis uzmanları için.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"19": {
-			"title": "Servis personeli kıyafeti",
-			"description": "Servis merkezleri için profesyonel kıyafet.",
+		"sezon-qishki-6": {
+			"title": "Servis personeli forması",
+			"description": "Servis merkezleri için profesyonel forma.",
 			"material": "Hafif kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"20": {
-			"title": "Güvenlik görevlisi kıyafeti",
-			"description": "Güvenlik hizmetleri için özel kıyafet.",
+		"sezon-qishki-7": {
+			"title": "Güvenlik personeli forması",
+			"description": "Güvenlik hizmetleri için özel forma.",
 			"material": "Dayanıklı kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"21": {
-			"title": "Depo kıyafeti",
-			"description": "Depo ve lojistik merkezleri için kıyafet.",
+		"sezon-qishki-8": {
+			"title": "Ambar forması",
+			"description": "Depo ve lojistik merkezleri için forma.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"22": {
-			"title": "Üretim kıyafeti",
-			"description": "Büyük üretim işletmeleri için kıyafet.",
+		"sezon-qishki-9": {
+			"title": "Üretim forması",
+			"description": "Büyük üretim tesisleri için forma.",
 			"material": "Pamuk ve polyester",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"23": {
-			"title": "Premium kıyafet",
-			"description": "Premium segment için özel kıyafet.",
+		"sezon-qishki-10": {
+			"title": "Premium forma",
+			"description": "Premium segment için özel forma.",
 			"material": "Premium kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"24": {
-			"title": "Markalı kıyafet",
-			"description": "Şirket logosuyla üretilen kıyafet.",
+		"sezon-qishki-11": {
+			"title": "Markalı forma",
+			"description": "Şirket logosu ile üretilen forma.",
 			"material": "Premium kumaş",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
 		},
-		"25": {
-			"material": "Kumaş",
-			"season": "Mevsim",
-			"color": "Renk"
+		"oyoq-kiyimlar-1": {
+			"material": "Kumaşı",
+			"color": "Rengi",
+			"season": "Mevsim"
 		},
-		"26": {
-			"title": "İş kıyafeti",
-			"description": "Fabrikalar ve üretim işletmeleri için özel dikilen iş kıyafeti.",
+		"oyoq-kiyimlar-2": {
+			"title": "İş forması",
+			"description": "Fabrikalar ve üretim tesisleri için özel olarak dikilmiş iş forması.",
 			"material": "Pamuk ve polyester karışımı",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
 		},
-		"27": {
-			"title": "İnşaat kıyafeti",
-			"description": "İnşaat sahalarında kullanım için dayanıklı kıyafet.",
+		"oyoq-kiyimlar-3": {
+			"title": "İnşaat forması",
+			"description": "İnşaat sahalarında kullanım için dayanıklı forma.",
 			"material": "Yüksek yoğunluklu kumaş",
-			"color": "Koyu turuncu",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu sarı",
+			"season": "Tüm mevsimler"
 		},
-		"28": {
-			"title": "Kurumsal kıyafet",
-			"description": "Ofis ve hizmet personeli için kıyafet.",
-			"material": "Premium takım elbise kumaşı",
+		"oyoq-kiyimlar-4": {
+			"title": "Kurumsal forma",
+			"description": "Ofis ve hizmet personeli için forma.",
+			"material": "Premium takım elbiselik kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"29": {
-			"title": "Kaynakçı kıyafeti",
-			"description": "Kaynak işleri için koruyucu kıyafet.",
+		"oyoq-kiyimlar-5": {
+			"title": "Kaynakçı forması",
+			"description": "Kaynak işleri için korumalı forma.",
 			"material": "Isıya dayanıklı kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"30": {
-			"title": "Elektrikçi kıyafeti",
-			"description": "Elektrik montaj işleri için güvenli kıyafet.",
+		"oyoq-kiyimlar-6": {
+			"title": "Elektrikçi forması",
+			"description": "Elektrik montaj işleri için güvenli forma.",
 			"material": "Dielektrik kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"31": {
-			"title": "Depo kıyafeti",
-			"description": "Lojistik ve depo personeli için.",
+		"oyoq-kiyimlar-7": {
+			"title": "Depo forması",
+			"description": "Lojistik ve depo çalışanları için.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"32": {
-			"title": "Restoran kıyafeti",
+		"oyoq-kiyimlar-8": {
+			"title": "Restoran forması",
 			"description": "Aşçılar ve servis personeli için.",
 			"material": "Hafif pamuk",
 			"color": "Beyaz",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"33": {
-			"title": "Resepsiyon kıyafeti",
-			"description": "Resepsiyon personeli için modern kıyafet.",
+		"oyoq-kiyimlar-9": {
+			"title": "Resepsiyon forması",
+			"description": "Resepsiyon çalışanları için modern forma.",
 			"material": "Premium kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"34": {
-			"title": "Kışlık iş kıyafeti",
-			"description": "Soğuk hava için özel kıyafet.",
-			"material": "Isı yalıtımlı kumaş",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+		"oyoq-kiyimlar-10": {
+			"title": "Kışlık iş forması",
+			"description": "Soğuk hava koşulları için özel forma.",
+			"material": "Isı tutucu kumaş",
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
 		},
-		"35": {
-			"title": "Yazlık iş kıyafeti",
-			"description": "Sıcak hava için hafif kıyafet.",
-			"material": "Nefes alabilen kumaş",
+		"oyoq-kiyimlar-11": {
+			"title": "Yazlık iş forması",
+			"description": "Sıcak hava için hafif forma.",
+			"material": "Nefes alan kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"36": {
-			"title": "Sinyal kıyafeti",
+		"oyoq-kiyimlar-12": {
+			"title": "Sinyal forması",
 			"description": "Yüksek görünürlüğe sahip özel kıyafet.",
 			"material": "Reflektörlü kumaş",
 			"color": "Sarı",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"37": {
-			"title": "Mühendis kıyafeti",
+		"oyoq-kiyimlar-13": {
+			"title": "Mühendis forması",
 			"description": "Mühendisler ve teknik personel için.",
-			"material": "Premium karışım kumaş",
+			"material": "Premium karışık kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"38": {
+		"oyoq-kiyimlar-14": {
 			"title": "Özel sipariş 1",
-			"description": "Müşteri talebine göre üretilen kıyafet.",
+			"description": "Müşteri talebine göre üretilen forma.",
 			"material": "Bireysel seçim",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"39": {
+		"oyoq-kiyimlar-15": {
 			"title": "Özel sipariş 2",
-			"description": "Kurumsal sipariş temelinde dikilmiştir.",
+			"description": "Kurumsal sipariş üzerine dikilmiştir.",
 			"material": "Premium kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"40": {
+		"oyoq-kiyimlar-16": {
 			"title": "Özel sipariş 3",
-			"description": "Özel tasarıma göre dikilmiştir.",
+			"description": "Özel tasarım esasında dikilmiştir.",
 			"material": "Premium kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"41": {
+		"oyoq-kiyimlar-17": {
 			"title": "Tulum",
-			"description": "Üretim işletmeleri için tulum.",
+			"description": "Üretim tesisleri için tulum.",
 			"material": "Dayanıklı kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"42": {
-			"title": "Petrol-gaz kıyafeti",
-			"description": "Petrol ve gaz sanayii için özel kıyafet.",
-			"material": "Yanmaz kumaş",
+		"oyoq-kiyimlar-18": {
+			"title": "Petrol-gaz forması",
+			"description": "Petrol ve gaz sanayi için özel forma.",
+			"material": "Yangına dayanıklı kumaş",
 			"color": "Kırmızı",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"43": {
-			"title": "Teknisyen kıyafeti",
+		"himoya-vositalari-1": {
+			"title": "Teknik personel forması",
 			"description": "Teknik servis uzmanları için.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"44": {
-			"title": "Servis personeli kıyafeti",
-			"description": "Servis merkezleri için profesyonel kıyafet.",
+		"himoya-vositalari-2": {
+			"title": "Servis personeli forması",
+			"description": "Servis merkezleri için profesyonel forma.",
 			"material": "Hafif kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"45": {
-			"title": "Güvenlik görevlisi kıyafeti",
-			"description": "Güvenlik hizmetleri için özel kıyafet.",
+		"himoya-vositalari-3": {
+			"title": "Güvenlik personeli forması",
+			"description": "Güvenlik hizmetleri için özel forma.",
 			"material": "Dayanıklı kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"46": {
-			"title": "Depo kıyafeti",
-			"description": "Depo ve lojistik merkezleri için kıyafet.",
+		"himoya-vositalari-4": {
+			"title": "Ambar forması",
+			"description": "Depo ve lojistik merkezleri için forma.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"47": {
-			"title": "Üretim kıyafeti",
-			"description": "Büyük üretim işletmeleri için kıyafet.",
+		"himoya-vositalari-5": {
+			"title": "Üretim forması",
+			"description": "Büyük üretim tesisleri için forma.",
 			"material": "Pamuk ve polyester",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"48": {
-			"title": "Premium kıyafet",
-			"description": "Premium segment için özel kıyafet.",
+		"himoya-vositalari-6": {
+			"title": "Premium forma",
+			"description": "Premium segment için özel forma.",
 			"material": "Premium kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"49": {
-			"title": "Markalı kıyafet",
-			"description": "Şirket logosuyla üretilen kıyafet.",
+		"ommaviy-kiyimlar-1": {
+			"title": "Markalı forma",
+			"description": "Şirket logosu ile üretilen forma.",
 			"material": "Premium kumaş",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
 		},
-		"50": {
+		"ommaviy-kiyimlar-2": {
 			"title": "Özel sipariş 2",
-			"description": "Kurumsal sipariş temelinde dikilmiştir.",
+			"description": "Kurumsal sipariş üzerine dikilmiştir.",
 			"material": "Premium kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"51": {
+		"ommaviy-kiyimlar-3": {
 			"title": "Özel sipariş 3",
-			"description": "Özel tasarıma göre dikilmiştir.",
+			"description": "Özel tasarım esasında dikilmiştir.",
 			"material": "Premium kumaş",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"52": {
+		"ommaviy-kiyimlar-4": {
 			"title": "Tulum",
-			"description": "Üretim işletmeleri için tulum.",
+			"description": "Üretim tesisleri için tulum.",
 			"material": "Dayanıklı kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"53": {
-			"title": "Petrol-gaz kıyafeti",
-			"description": "Petrol ve gaz sanayii için özel kıyafet.",
-			"material": "Yanmaz kumaş",
+		"ommaviy-kiyimlar-5": {
+			"title": "Petrol-gaz forması",
+			"description": "Petrol ve gaz sanayi için özel forma.",
+			"material": "Yangına dayanıklı kumaş",
 			"color": "Kırmızı",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"54": {
-			"title": "Teknisyen kıyafeti",
+		"ommaviy-kiyimlar-6": {
+			"title": "Teknik personel forması",
 			"description": "Teknik servis uzmanları için.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"55": {
-			"title": "Servis personeli kıyafeti",
-			"description": "Servis merkezleri için profesyonel kıyafet.",
+		"ommaviy-kiyimlar-7": {
+			"title": "Servis personeli forması",
+			"description": "Servis merkezleri için profesyonel forma.",
 			"material": "Hafif kumaş",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"56": {
-			"title": "Güvenlik görevlisi kıyafeti",
-			"description": "Güvenlik hizmetleri için özel kıyafet.",
+		"ommaviy-kiyimlar-8": {
+			"title": "Güvenlik personeli forması",
+			"description": "Güvenlik hizmetleri için özel forma.",
 			"material": "Dayanıklı kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"57": {
-			"title": "Depo kıyafeti",
-			"description": "Depo ve lojistik merkezleri için kıyafet.",
+		"ommaviy-kiyimlar-9": {
+			"title": "Ambar forması",
+			"description": "Depo ve lojistik merkezleri için forma.",
 			"material": "Polyester",
 			"color": "Gri",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"58": {
-			"title": "Üretim kıyafeti",
-			"description": "Büyük üretim işletmeleri için kıyafet.",
+		"ommaviy-kiyimlar-10": {
+			"title": "Üretim forması",
+			"description": "Büyük üretim tesisleri için forma.",
 			"material": "Pamuk ve polyester",
 			"color": "Mavi",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"59": {
-			"title": "Premium kıyafet",
-			"description": "Premium segment için özel kıyafet.",
+		"ommaviy-kiyimlar-11": {
+			"title": "Premium forma",
+			"description": "Premium segment için özel forma.",
 			"material": "Premium kumaş",
 			"color": "Siyah",
-			"season": "Tüm Mevsimler"
+			"season": "Tüm mevsimler"
 		},
-		"60": {
-			"title": "Markalı kıyafet",
-			"description": "Şirket logosuyla üretilen kıyafet.",
+		"ommaviy-kiyimlar-12": {
+			"title": "Markalı forma",
+			"description": "Şirket logosu ile üretilen forma.",
 			"material": "Premium kumaş",
-			"color": "Lacivert",
-			"season": "Tüm Mevsimler"
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
+		},
+		"ommaviy-kiyimlar-13": {
+			"title": "Markalı forma",
+			"description": "Şirket logosu ile üretilen forma.",
+			"material": "Premium kumaş",
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-1": {
+			"title": "İş kepi",
+			"description": "Fabrika ve üretim çalışanları için rahat kep.",
+			"material": "Pamuklu kumaş",
+			"color": "Mavi",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-2": {
+			"title": "İnşaat kepi",
+			"description": "Güneş ışınlarından koruyan dayanıklı kep.",
+			"material": "Pamuk ve polyester",
+			"color": "Koyu sarı",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-3": {
+			"title": "Sinyal kepi",
+			"description": "Yüksek görünürlüğe sahip reflektörlü kep.",
+			"material": "Reflektörlü kumaş",
+			"color": "Sarı",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-4": {
+			"title": "Kışlık kep",
+			"description": "Soğuk havada başı sıcak tutan kep.",
+			"material": "Isı tutucu kumaş",
+			"color": "Gri",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-5": {
+			"title": "Yazlık kep",
+			"description": "Sıcak havada nefes alan hafif kep.",
+			"material": "Nefes alan kumaş",
+			"color": "Beyaz",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-6": {
+			"title": "Kurumsal kep",
+			"description": "Şirket forması ile uyumlu modern kep.",
+			"material": "Premium kumaş",
+			"color": "Siyah",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-7": {
+			"title": "Kaynakçı kepi",
+			"description": "Kaynak işlerinde başı koruyan kep.",
+			"material": "Isıya dayanıklı kumaş",
+			"color": "Gri",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-8": {
+			"title": "Spor kep",
+			"description": "Aktif hareket için hafif ve rahat kep.",
+			"material": "Polyester",
+			"color": "Mavi",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-9": {
+			"title": "Markalı kep",
+			"description": "Şirket logosu ile dikilmiş özel kep.",
+			"material": "Premium kumaş",
+			"color": "Koyu mavi",
+			"season": "Tüm mevsimler"
+		},
+		"kepka-10": {
+			"title": "Güvenlik kepi",
+			"description": "Güvenlik personeli için dayanıklı kep.",
+			"material": "Dayanıklı kumaş",
+			"color": "Siyah",
+			"season": "Tüm mevsimler"
 		},
 		"labels": {
 			"material": "Kumaş",
@@ -468,7 +545,8 @@
 			"winter": "Kışlık kıyafetler",
 			"shoes": "Ayakkabılar",
 			"protection": "Koruyucu ekipmanlar",
-			"mass": "Toplu üretim kıyafetler"
+			"mass": "Toplu üretim kıyafetler",
+			"kepka": "Kepka"
 		}
 	},
 	"about": {

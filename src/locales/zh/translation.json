@@ -34,422 +34,499 @@
 		}
 	},
 	"portfolio": {
-		"1": {
+		"sezon-yozgi-1": {
 			"title": "工作服",
-			"description": "为工厂和生产企业定制缝制的工作服。",
+			"description": "专为工厂和生产企业定制的工作服。",
 			"material": "棉涤混纺",
 			"color": "深蓝色",
 			"season": "全季节"
 		},
-		"2": {
+		"sezon-yozgi-2": {
 			"title": "建筑工作服",
 			"description": "适用于建筑工地的耐用工作服。",
 			"material": "高密度面料",
-			"color": "深橙色",
+			"color": "深黄色",
 			"season": "全季节"
 		},
-		"3": {
+		"sezon-yozgi-3": {
 			"title": "企业制服",
 			"description": "适用于办公室和服务人员的制服。",
 			"material": "高级西装面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"4": {
+		"sezon-yozgi-4": {
 			"title": "焊工服",
 			"description": "用于焊接作业的防护服。",
-			"material": "耐热面料",
+			"material": "耐高温面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"5": {
+		"sezon-yozgi-5": {
 			"title": "电工服",
-			"description": "用于电气安装作业的安全服。",
+			"description": "用于电气安装作业的安全防护服。",
 			"material": "绝缘面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"6": {
-			"title": "仓库制服",
+		"sezon-yozgi-6": {
+			"title": "仓库工作服",
 			"description": "适用于物流和仓库员工。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"7": {
+		"sezon-yozgi-7": {
 			"title": "餐厅制服",
 			"description": "适用于厨师和服务人员。",
 			"material": "轻质棉",
 			"color": "白色",
 			"season": "全季节"
 		},
-		"8": {
+		"sezon-yozgi-8": {
 			"title": "前台制服",
-			"description": "适用于前台员工的现代制服。",
+			"description": "适用于前台员工的现代化制服。",
 			"material": "高级面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"9": {
+		"sezon-yozgi-9": {
 			"title": "冬季工作服",
-			"description": "适用于寒冷天气的特殊制服。",
+			"description": "专为寒冷天气设计的工作服。",
 			"material": "保暖面料",
 			"color": "深蓝色",
 			"season": "全季节"
 		},
-		"10": {
+		"sezon-yozgi-10": {
 			"title": "夏季工作服",
-			"description": "适用于炎热天气的轻便制服。",
+			"description": "适用于炎热天气的轻便工作服。",
 			"material": "透气面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"11": {
-			"title": "高可视警示服",
-			"description": "高能见度的特殊服装。",
+		"sezon-yozgi-11": {
+			"title": "高能见度反光服",
+			"description": "具有高能见度的专用服装。",
 			"material": "反光面料",
 			"color": "黄色",
 			"season": "全季节"
 		},
-		"12": {
+		"sezon-yozgi-12": {
 			"title": "工程师制服",
 			"description": "适用于工程师和技术人员。",
 			"material": "高级混纺面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"13": {
+		"sezon-yozgi-13": {
 			"title": "定制订单 1",
-			"description": "根据客户要求生产的制服。",
-			"material": "个性化选择",
+			"description": "根据客户要求定制生产的工作服。",
+			"material": "个性化定制",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"14": {
+		"sezon-qishki-1": {
 			"title": "定制订单 2",
-			"description": "根据企业订单缝制。",
+			"description": "根据企业订单定制缝制。",
 			"material": "高级面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"15": {
+		"sezon-qishki-2": {
 			"title": "定制订单 3",
-			"description": "根据独家设计缝制。",
+			"description": "根据独家设计定制缝制。",
 			"material": "高级面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"16": {
+		"sezon-qishki-3": {
 			"title": "连体工作服",
-			"description": "适用于生产企业的连体服。",
+			"description": "适用于生产企业的连体工作服。",
 			"material": "耐用面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"17": {
+		"sezon-qishki-4": {
 			"title": "石油天然气工作服",
-			"description": "适用于石油和天然气行业的特殊制服。",
+			"description": "专为石油和天然气行业设计的工作服。",
 			"material": "阻燃面料",
 			"color": "红色",
 			"season": "全季节"
 		},
-		"18": {
+		"sezon-qishki-5": {
 			"title": "技术人员制服",
 			"description": "适用于技术服务专家。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"19": {
+		"sezon-qishki-6": {
 			"title": "服务人员制服",
 			"description": "适用于服务中心的专业制服。",
-			"material": "轻质面料",
+			"material": "轻薄面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"20": {
+		"sezon-qishki-7": {
 			"title": "保安制服",
-			"description": "适用于安保服务的特殊制服。",
+			"description": "专为安保服务设计的工作服。",
 			"material": "耐用面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"21": {
-			"title": "仓储制服",
-			"description": "适用于仓储和物流中心的制服。",
+		"sezon-qishki-8": {
+			"title": "物流仓储服",
+			"description": "适用于仓库和物流中心的工作服。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"22": {
-			"title": "生产制服",
-			"description": "适用于大型生产企业的制服。",
-			"material": "棉涤",
+		"sezon-qishki-9": {
+			"title": "生产工作服",
+			"description": "适用于大型生产企业的工作服。",
+			"material": "棉涤面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"23": {
-			"title": "高级制服",
-			"description": "适用于高端市场的特殊制服。",
+		"sezon-qishki-10": {
+			"title": "高级定制服",
+			"description": "专为高端市场设计的工作服。",
 			"material": "高级面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"24": {
-			"title": "品牌制服",
-			"description": "印有公司标志的制服。",
+		"sezon-qishki-11": {
+			"title": "品牌定制服",
+			"description": "印有公司标志的定制工作服。",
 			"material": "高级面料",
 			"color": "深蓝色",
 			"season": "全季节"
 		},
-		"25": {
-			"material": "面料",
-			"season": "季节",
-			"color": "颜色"
+		"oyoq-kiyimlar-1": {
+			"material": "材质",
+			"color": "颜色",
+			"season": "季节"
 		},
-		"26": {
+		"oyoq-kiyimlar-2": {
 			"title": "工作服",
-			"description": "为工厂和生产企业定制缝制的工作服。",
+			"description": "专为工厂和生产企业定制的工作服。",
 			"material": "棉涤混纺",
 			"color": "深蓝色",
 			"season": "全季节"
 		},
-		"27": {
+		"oyoq-kiyimlar-3": {
 			"title": "建筑工作服",
 			"description": "适用于建筑工地的耐用工作服。",
 			"material": "高密度面料",
-			"color": "深橙色",
+			"color": "深黄色",
 			"season": "全季节"
 		},
-		"28": {
+		"oyoq-kiyimlar-4": {
 			"title": "企业制服",
 			"description": "适用于办公室和服务人员的制服。",
 			"material": "高级西装面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"29": {
+		"oyoq-kiyimlar-5": {
 			"title": "焊工服",
 			"description": "用于焊接作业的防护服。",
-			"material": "耐热面料",
+			"material": "耐高温面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"30": {
+		"oyoq-kiyimlar-6": {
 			"title": "电工服",
-			"description": "用于电气安装作业的安全服。",
+			"description": "用于电气安装作业的安全防护服。",
 			"material": "绝缘面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"31": {
-			"title": "仓库制服",
+		"oyoq-kiyimlar-7": {
+			"title": "仓库工作服",
 			"description": "适用于物流和仓库员工。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"32": {
+		"oyoq-kiyimlar-8": {
 			"title": "餐厅制服",
 			"description": "适用于厨师和服务人员。",
 			"material": "轻质棉",
 			"color": "白色",
 			"season": "全季节"
 		},
-		"33": {
+		"oyoq-kiyimlar-9": {
 			"title": "前台制服",
-			"description": "适用于前台员工的现代制服。",
+			"description": "适用于前台员工的现代化制服。",
 			"material": "高级面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"34": {
+		"oyoq-kiyimlar-10": {
 			"title": "冬季工作服",
-			"description": "适用于寒冷天气的特殊制服。",
+			"description": "专为寒冷天气设计的工作服。",
 			"material": "保暖面料",
 			"color": "深蓝色",
 			"season": "全季节"
 		},
-		"35": {
+		"oyoq-kiyimlar-11": {
 			"title": "夏季工作服",
-			"description": "适用于炎热天气的轻便制服。",
+			"description": "适用于炎热天气的轻便工作服。",
 			"material": "透气面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"36": {
-			"title": "高可视警示服",
-			"description": "高能见度的特殊服装。",
+		"oyoq-kiyimlar-12": {
+			"title": "高能见度反光服",
+			"description": "具有高能见度的专用服装。",
 			"material": "反光面料",
 			"color": "黄色",
 			"season": "全季节"
 		},
-		"37": {
+		"oyoq-kiyimlar-13": {
 			"title": "工程师制服",
 			"description": "适用于工程师和技术人员。",
 			"material": "高级混纺面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"38": {
+		"oyoq-kiyimlar-14": {
 			"title": "定制订单 1",
-			"description": "根据客户要求生产的制服。",
-			"material": "个性化选择",
+			"description": "根据客户要求定制生产的工作服。",
+			"material": "个性化定制",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"39": {
+		"oyoq-kiyimlar-15": {
 			"title": "定制订单 2",
-			"description": "根据企业订单缝制。",
+			"description": "根据企业订单定制缝制。",
 			"material": "高级面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"40": {
+		"oyoq-kiyimlar-16": {
 			"title": "定制订单 3",
-			"description": "根据独家设计缝制。",
+			"description": "根据独家设计定制缝制。",
 			"material": "高级面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"41": {
+		"oyoq-kiyimlar-17": {
 			"title": "连体工作服",
-			"description": "适用于生产企业的连体服。",
+			"description": "适用于生产企业的连体工作服。",
 			"material": "耐用面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"42": {
+		"oyoq-kiyimlar-18": {
 			"title": "石油天然气工作服",
-			"description": "适用于石油和天然气行业的特殊制服。",
+			"description": "专为石油和天然气行业设计的工作服。",
 			"material": "阻燃面料",
 			"color": "红色",
 			"season": "全季节"
 		},
-		"43": {
+		"himoya-vositalari-1": {
 			"title": "技术人员制服",
 			"description": "适用于技术服务专家。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"44": {
+		"himoya-vositalari-2": {
 			"title": "服务人员制服",
 			"description": "适用于服务中心的专业制服。",
-			"material": "轻质面料",
+			"material": "轻薄面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"45": {
+		"himoya-vositalari-3": {
 			"title": "保安制服",
-			"description": "适用于安保服务的特殊制服。",
+			"description": "专为安保服务设计的工作服。",
 			"material": "耐用面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"46": {
-			"title": "仓储制服",
-			"description": "适用于仓储和物流中心的制服。",
+		"himoya-vositalari-4": {
+			"title": "物流仓储服",
+			"description": "适用于仓库和物流中心的工作服。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"47": {
-			"title": "生产制服",
-			"description": "适用于大型生产企业的制服。",
-			"material": "棉涤",
+		"himoya-vositalari-5": {
+			"title": "生产工作服",
+			"description": "适用于大型生产企业的工作服。",
+			"material": "棉涤面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"48": {
-			"title": "高级制服",
-			"description": "适用于高端市场的特殊制服。",
+		"himoya-vositalari-6": {
+			"title": "高级定制服",
+			"description": "专为高端市场设计的工作服。",
 			"material": "高级面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"49": {
-			"title": "品牌制服",
-			"description": "印有公司标志的制服。",
+		"ommaviy-kiyimlar-1": {
+			"title": "品牌定制服",
+			"description": "印有公司标志的定制工作服。",
 			"material": "高级面料",
 			"color": "深蓝色",
 			"season": "全季节"
 		},
-		"50": {
+		"ommaviy-kiyimlar-2": {
 			"title": "定制订单 2",
-			"description": "根据企业订单缝制。",
+			"description": "根据企业订单定制缝制。",
 			"material": "高级面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"51": {
+		"ommaviy-kiyimlar-3": {
 			"title": "定制订单 3",
-			"description": "根据独家设计缝制。",
+			"description": "根据独家设计定制缝制。",
 			"material": "高级面料",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"52": {
+		"ommaviy-kiyimlar-4": {
 			"title": "连体工作服",
-			"description": "适用于生产企业的连体服。",
+			"description": "适用于生产企业的连体工作服。",
 			"material": "耐用面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"53": {
+		"ommaviy-kiyimlar-5": {
 			"title": "石油天然气工作服",
-			"description": "适用于石油和天然气行业的特殊制服。",
+			"description": "专为石油和天然气行业设计的工作服。",
 			"material": "阻燃面料",
 			"color": "红色",
 			"season": "全季节"
 		},
-		"54": {
+		"ommaviy-kiyimlar-6": {
 			"title": "技术人员制服",
 			"description": "适用于技术服务专家。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"55": {
+		"ommaviy-kiyimlar-7": {
 			"title": "服务人员制服",
 			"description": "适用于服务中心的专业制服。",
-			"material": "轻质面料",
+			"material": "轻薄面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"56": {
+		"ommaviy-kiyimlar-8": {
 			"title": "保安制服",
-			"description": "适用于安保服务的特殊制服。",
+			"description": "专为安保服务设计的工作服。",
 			"material": "耐用面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"57": {
-			"title": "仓储制服",
-			"description": "适用于仓储和物流中心的制服。",
+		"ommaviy-kiyimlar-9": {
+			"title": "物流仓储服",
+			"description": "适用于仓库和物流中心的工作服。",
 			"material": "聚酯纤维",
 			"color": "灰色",
 			"season": "全季节"
 		},
-		"58": {
-			"title": "生产制服",
-			"description": "适用于大型生产企业的制服。",
-			"material": "棉涤",
+		"ommaviy-kiyimlar-10": {
+			"title": "生产工作服",
+			"description": "适用于大型生产企业的工作服。",
+			"material": "棉涤面料",
 			"color": "蓝色",
 			"season": "全季节"
 		},
-		"59": {
-			"title": "高级制服",
-			"description": "适用于高端市场的特殊制服。",
+		"ommaviy-kiyimlar-11": {
+			"title": "高级定制服",
+			"description": "专为高端市场设计的工作服。",
 			"material": "高级面料",
 			"color": "黑色",
 			"season": "全季节"
 		},
-		"60": {
-			"title": "品牌制服",
-			"description": "印有公司标志的制服。",
+		"ommaviy-kiyimlar-12": {
+			"title": "品牌定制服",
+			"description": "印有公司标志的定制工作服。",
 			"material": "高级面料",
 			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"ommaviy-kiyimlar-13": {
+			"title": "品牌定制服",
+			"description": "印有公司标志的定制工作服。",
+			"material": "高级面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"kepka-1": {
+			"title": "工作帽",
+			"description": "适合工厂和生产人员的舒适帽子。",
+			"material": "棉质面料",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"kepka-2": {
+			"title": "建筑工帽",
+			"description": "防晒耐用帽子。",
+			"material": "棉涤面料",
+			"color": "深黄色",
+			"season": "全季节"
+		},
+		"kepka-3": {
+			"title": "高能见度反光帽",
+			"description": "具有高能见度的反光帽。",
+			"material": "反光面料",
+			"color": "黄色",
+			"season": "全季节"
+		},
+		"kepka-4": {
+			"title": "冬季帽",
+			"description": "在寒冷天气中保暖头部的帽子。",
+			"material": "保暖面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"kepka-5": {
+			"title": "夏季帽",
+			"description": "适合炎热天气的轻便透气帽子。",
+			"material": "透气面料",
+			"color": "白色",
+			"season": "全季节"
+		},
+		"kepka-6": {
+			"title": "企业帽",
+			"description": "与公司制服相配的现代帽子。",
+			"material": "高级面料",
+			"color": "黑色",
+			"season": "全季节"
+		},
+		"kepka-7": {
+			"title": "焊工帽",
+			"description": "焊接作业时保护头部的帽子。",
+			"material": "耐高温面料",
+			"color": "灰色",
+			"season": "全季节"
+		},
+		"kepka-8": {
+			"title": "运动帽",
+			"description": "适合活动的轻便舒适帽子。",
+			"material": "聚酯纤维",
+			"color": "蓝色",
+			"season": "全季节"
+		},
+		"kepka-9": {
+			"title": "品牌定制帽",
+			"description": "印有公司标志的定制帽子。",
+			"material": "高级面料",
+			"color": "深蓝色",
+			"season": "全季节"
+		},
+		"kepka-10": {
+			"title": "保安帽",
+			"description": "适合保安人员的耐用帽子。",
+			"material": "耐用面料",
+			"color": "黑色",
 			"season": "全季节"
 		},
 		"labels": {
@@ -468,7 +545,8 @@
 			"winter": "冬季服装",
 			"shoes": "鞋类",
 			"protection": "防护用品",
-			"mass": "批量服装"
+			"mass": "批量服装",
+			"kepka": "Kepka"
 		}
 	},
 	"about": {

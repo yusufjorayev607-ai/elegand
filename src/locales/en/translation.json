@@ -34,427 +34,503 @@
 		}
 	},
 	"portfolio": {
+		"sezon-yozgi-1": {
+			"title": "Work uniform",
+			"description": "A work uniform specially tailored for factories and manufacturing plants.",
+			"material": "Cotton and polyester blend",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-2": {
+			"title": "Construction uniform",
+			"description": "A durable uniform for use on construction sites.",
+			"material": "High-density fabric",
+			"color": "Dark yellow",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-3": {
+			"title": "Corporate uniform",
+			"description": "A uniform for office and service staff.",
+			"material": "Premium suit fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-4": {
+			"title": "Welder's uniform",
+			"description": "A protective uniform for welding work.",
+			"material": "Heat-resistant fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-5": {
+			"title": "Electrician's uniform",
+			"description": "A safe uniform for electrical installation work.",
+			"material": "Dielectric fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-6": {
+			"title": "Warehouse uniform",
+			"description": "For logistics and warehouse staff.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-7": {
+			"title": "Restaurant uniform",
+			"description": "For chefs and service staff.",
+			"material": "Lightweight cotton",
+			"color": "White",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-8": {
+			"title": "Reception uniform",
+			"description": "A modern uniform for reception staff.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-9": {
+			"title": "Winter work uniform",
+			"description": "A special uniform for cold weather.",
+			"material": "Heat-retaining fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-10": {
+			"title": "Summer work uniform",
+			"description": "A lightweight uniform for hot weather.",
+			"material": "Breathable fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-11": {
+			"title": "High-visibility uniform",
+			"description": "Special clothing with high visibility.",
+			"material": "Reflective fabric",
+			"color": "Yellow",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-12": {
+			"title": "Engineer's uniform",
+			"description": "For engineers and technical staff.",
+			"material": "Premium blended fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"sezon-yozgi-13": {
+			"title": "Custom order 1",
+			"description": "A uniform produced according to customer requirements.",
+			"material": "Custom selection",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"sezon-qishki-1": {
+			"title": "Custom order 2",
+			"description": "Tailored based on a corporate order.",
+			"material": "Premium fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"sezon-qishki-2": {
+			"title": "Custom order 3",
+			"description": "Tailored based on an exclusive design.",
+			"material": "Premium fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"sezon-qishki-3": {
+			"title": "Coverall",
+			"description": "Coveralls for manufacturing plants.",
+			"material": "Durable fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"sezon-qishki-4": {
+			"title": "Oil & gas uniform",
+			"description": "A special uniform for the oil and gas industry.",
+			"material": "Fire-resistant fabric",
+			"color": "Red",
+			"season": "All seasons"
+		},
+		"sezon-qishki-5": {
+			"title": "Technician's uniform",
+			"description": "For technical service specialists.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"sezon-qishki-6": {
+			"title": "Service staff uniform",
+			"description": "A professional uniform for service centers.",
+			"material": "Lightweight fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"sezon-qishki-7": {
+			"title": "Security guard uniform",
+			"description": "A special uniform for security services.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"sezon-qishki-8": {
+			"title": "Storage uniform",
+			"description": "A uniform for warehouses and logistics centers.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"sezon-qishki-9": {
+			"title": "Manufacturing uniform",
+			"description": "A uniform for large manufacturing plants.",
+			"material": "Cotton and polyester",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"sezon-qishki-10": {
+			"title": "Premium uniform",
+			"description": "A special uniform for the premium segment.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"sezon-qishki-11": {
+			"title": "Branded uniform",
+			"description": "A uniform manufactured with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-1": {
+			"material": "Fabric",
+			"color": "Color",
+			"season": "Season"
+		},
+		"oyoq-kiyimlar-2": {
+			"title": "Work uniform",
+			"description": "A work uniform specially tailored for factories and manufacturing plants.",
+			"material": "Cotton and polyester blend",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-3": {
+			"title": "Construction uniform",
+			"description": "A durable uniform for use on construction sites.",
+			"material": "High-density fabric",
+			"color": "Dark yellow",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-4": {
+			"title": "Corporate uniform",
+			"description": "A uniform for office and service staff.",
+			"material": "Premium suit fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-5": {
+			"title": "Welder's uniform",
+			"description": "A protective uniform for welding work.",
+			"material": "Heat-resistant fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-6": {
+			"title": "Electrician's uniform",
+			"description": "A safe uniform for electrical installation work.",
+			"material": "Dielectric fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-7": {
+			"title": "Warehouse uniform",
+			"description": "For logistics and warehouse staff.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-8": {
+			"title": "Restaurant uniform",
+			"description": "For chefs and service staff.",
+			"material": "Lightweight cotton",
+			"color": "White",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-9": {
+			"title": "Reception uniform",
+			"description": "A modern uniform for reception staff.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-10": {
+			"title": "Winter work uniform",
+			"description": "A special uniform for cold weather.",
+			"material": "Heat-retaining fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-11": {
+			"title": "Summer work uniform",
+			"description": "A lightweight uniform for hot weather.",
+			"material": "Breathable fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-12": {
+			"title": "High-visibility uniform",
+			"description": "Special clothing with high visibility.",
+			"material": "Reflective fabric",
+			"color": "Yellow",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-13": {
+			"title": "Engineer's uniform",
+			"description": "For engineers and technical staff.",
+			"material": "Premium blended fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-14": {
+			"title": "Custom order 1",
+			"description": "A uniform produced according to customer requirements.",
+			"material": "Custom selection",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-15": {
+			"title": "Custom order 2",
+			"description": "Tailored based on a corporate order.",
+			"material": "Premium fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-16": {
+			"title": "Custom order 3",
+			"description": "Tailored based on an exclusive design.",
+			"material": "Premium fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-17": {
+			"title": "Coverall",
+			"description": "Coveralls for manufacturing plants.",
+			"material": "Durable fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"oyoq-kiyimlar-18": {
+			"title": "Oil & gas uniform",
+			"description": "A special uniform for the oil and gas industry.",
+			"material": "Fire-resistant fabric",
+			"color": "Red",
+			"season": "All seasons"
+		},
+		"himoya-vositalari-1": {
+			"title": "Technician's uniform",
+			"description": "For technical service specialists.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"himoya-vositalari-2": {
+			"title": "Service staff uniform",
+			"description": "A professional uniform for service centers.",
+			"material": "Lightweight fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"himoya-vositalari-3": {
+			"title": "Security guard uniform",
+			"description": "A special uniform for security services.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"himoya-vositalari-4": {
+			"title": "Storage uniform",
+			"description": "A uniform for warehouses and logistics centers.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"himoya-vositalari-5": {
+			"title": "Manufacturing uniform",
+			"description": "A uniform for large manufacturing plants.",
+			"material": "Cotton and polyester",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"himoya-vositalari-6": {
+			"title": "Premium uniform",
+			"description": "A special uniform for the premium segment.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-1": {
+			"title": "Branded uniform",
+			"description": "A uniform manufactured with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-2": {
+			"title": "Custom order 2",
+			"description": "Tailored based on a corporate order.",
+			"material": "Premium fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-3": {
+			"title": "Custom order 3",
+			"description": "Tailored based on an exclusive design.",
+			"material": "Premium fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-4": {
+			"title": "Coverall",
+			"description": "Coveralls for manufacturing plants.",
+			"material": "Durable fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-5": {
+			"title": "Oil & gas uniform",
+			"description": "A special uniform for the oil and gas industry.",
+			"material": "Fire-resistant fabric",
+			"color": "Red",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-6": {
+			"title": "Technician's uniform",
+			"description": "For technical service specialists.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-7": {
+			"title": "Service staff uniform",
+			"description": "A professional uniform for service centers.",
+			"material": "Lightweight fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-8": {
+			"title": "Security guard uniform",
+			"description": "A special uniform for security services.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-9": {
+			"title": "Storage uniform",
+			"description": "A uniform for warehouses and logistics centers.",
+			"material": "Polyester",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-10": {
+			"title": "Manufacturing uniform",
+			"description": "A uniform for large manufacturing plants.",
+			"material": "Cotton and polyester",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-11": {
+			"title": "Premium uniform",
+			"description": "A special uniform for the premium segment.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-12": {
+			"title": "Branded uniform",
+			"description": "A uniform manufactured with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"ommaviy-kiyimlar-13": {
+			"title": "Branded uniform",
+			"description": "A uniform manufactured with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"kepka-1": {
+			"title": "Work cap",
+			"description": "A comfortable cap for factory and manufacturing staff.",
+			"material": "Cotton fabric",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"kepka-2": {
+			"title": "Construction cap",
+			"description": "A durable cap that protects from sunlight.",
+			"material": "Cotton and polyester",
+			"color": "Dark yellow",
+			"season": "All seasons"
+		},
+		"kepka-3": {
+			"title": "High-visibility cap",
+			"description": "A reflective cap with high visibility.",
+			"material": "Reflective fabric",
+			"color": "Yellow",
+			"season": "All seasons"
+		},
+		"kepka-4": {
+			"title": "Winter cap",
+			"description": "A cap that keeps the head warm in cold weather.",
+			"material": "Heat-retaining fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"kepka-5": {
+			"title": "Summer cap",
+			"description": "A lightweight breathable cap for hot weather.",
+			"material": "Breathable fabric",
+			"color": "White",
+			"season": "All seasons"
+		},
+		"kepka-6": {
+			"title": "Corporate cap",
+			"description": "A modern cap that matches the company uniform.",
+			"material": "Premium fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
+		"kepka-7": {
+			"title": "Welder's cap",
+			"description": "A cap that protects the head during welding work.",
+			"material": "Heat-resistant fabric",
+			"color": "Gray",
+			"season": "All seasons"
+		},
+		"kepka-8": {
+			"title": "Sport cap",
+			"description": "A light and comfortable cap for active movement.",
+			"material": "Polyester",
+			"color": "Blue",
+			"season": "All seasons"
+		},
+		"kepka-9": {
+			"title": "Branded cap",
+			"description": "A special cap made with the company logo.",
+			"material": "Premium fabric",
+			"color": "Dark blue",
+			"season": "All seasons"
+		},
+		"kepka-10": {
+			"title": "Security cap",
+			"description": "A durable cap for security staff.",
+			"material": "Durable fabric",
+			"color": "Black",
+			"season": "All seasons"
+		},
 		"title": "Portfolio",
 		"partfolioPageTitle": "VIEW ALL OUR WORKS",
-
-		"1": {
-			"title": "Work uniform",
-			"description": "Custom-made work uniform for factories and manufacturing enterprises.",
-			"material": "Cotton and polyester blend",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
-		"2": {
-			"title": "Construction uniform",
-			"description": "Durable uniform for use on construction sites.",
-			"material": "High-density fabric",
-			"color": "Dark orange",
-			"season": "All Seasons"
-		},
-		"3": {
-			"title": "Corporate uniform",
-			"description": "Uniform for office and service staff.",
-			"material": "Premium suit fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"4": {
-			"title": "Welder uniform",
-			"description": "Protective uniform for welding work.",
-			"material": "Heat-resistant fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"5": {
-			"title": "Electrician uniform",
-			"description": "Safe uniform for electrical installation work.",
-			"material": "Dielectric fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"6": {
-			"title": "Warehouse uniform",
-			"description": "For logistics and warehouse staff.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"7": {
-			"title": "Restaurant uniform",
-			"description": "For chefs and service staff.",
-			"material": "Lightweight cotton",
-			"color": "White",
-			"season": "All Seasons"
-		},
-		"8": {
-			"title": "Reception uniform",
-			"description": "Modern uniform for reception staff.",
-			"material": "Premium fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"9": {
-			"title": "Winter work uniform",
-			"description": "Special uniform for cold weather.",
-			"material": "Heat-insulating fabric",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
-		"10": {
-			"title": "Summer work uniform",
-			"description": "Lightweight uniform for hot weather.",
-			"material": "Breathable fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"11": {
-			"title": "Hi-vis uniform",
-			"description": "Special clothing with high visibility.",
-			"material": "Reflective fabric",
-			"color": "Yellow",
-			"season": "All Seasons"
-		},
-		"12": {
-			"title": "Engineer uniform",
-			"description": "For engineers and technical staff.",
-			"material": "Premium blended fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"13": {
-			"title": "Custom order 1",
-			"description": "Uniform produced according to customer requirements.",
-			"material": "Individual selection",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"14": {
-			"title": "Custom order 2",
-			"description": "Sewn based on a corporate order.",
-			"material": "Premium fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"15": {
-			"title": "Custom order 3",
-			"description": "Sewn based on an exclusive design.",
-			"material": "Premium fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"16": {
-			"title": "Coverall",
-			"description": "Coverall for manufacturing enterprises.",
-			"material": "Durable fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"17": {
-			"title": "Oil & gas uniform",
-			"description": "Special uniform for the oil and gas industry.",
-			"material": "Fire-resistant fabric",
-			"color": "Red",
-			"season": "All Seasons"
-		},
-		"18": {
-			"title": "Technician uniform",
-			"description": "For technical service specialists.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"19": {
-			"title": "Service staff uniform",
-			"description": "Professional uniform for service centers.",
-			"material": "Lightweight fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"20": {
-			"title": "Security guard uniform",
-			"description": "Special uniform for security services.",
-			"material": "Durable fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"21": {
-			"title": "Storage uniform",
-			"description": "Uniform for storage and logistics centers.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"22": {
-			"title": "Manufacturing uniform",
-			"description": "Uniform for large manufacturing enterprises.",
-			"material": "Cotton and polyester",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"23": {
-			"title": "Premium uniform",
-			"description": "Special uniform for the premium segment.",
-			"material": "Premium fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"24": {
-			"title": "Branded uniform",
-			"description": "Uniform produced with the company logo.",
-			"material": "Premium fabric",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
-		"25": {
-			"material": "Fabric",
-			"season": "Season",
-			"color": "Color"
-		},
-		"26": {
-			"title": "Work uniform",
-			"description": "Custom-made work uniform for factories and manufacturing enterprises.",
-			"material": "Cotton and polyester blend",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
-		"27": {
-			"title": "Construction uniform",
-			"description": "Durable uniform for use on construction sites.",
-			"material": "High-density fabric",
-			"color": "Dark orange",
-			"season": "All Seasons"
-		},
-		"28": {
-			"title": "Corporate uniform",
-			"description": "Uniform for office and service staff.",
-			"material": "Premium suit fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"29": {
-			"title": "Welder uniform",
-			"description": "Protective uniform for welding work.",
-			"material": "Heat-resistant fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"30": {
-			"title": "Electrician uniform",
-			"description": "Safe uniform for electrical installation work.",
-			"material": "Dielectric fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"31": {
-			"title": "Warehouse uniform",
-			"description": "For logistics and warehouse staff.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"32": {
-			"title": "Restaurant uniform",
-			"description": "For chefs and service staff.",
-			"material": "Lightweight cotton",
-			"color": "White",
-			"season": "All Seasons"
-		},
-		"33": {
-			"title": "Reception uniform",
-			"description": "Modern uniform for reception staff.",
-			"material": "Premium fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"34": {
-			"title": "Winter work uniform",
-			"description": "Special uniform for cold weather.",
-			"material": "Heat-insulating fabric",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
-		"35": {
-			"title": "Summer work uniform",
-			"description": "Lightweight uniform for hot weather.",
-			"material": "Breathable fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"36": {
-			"title": "Hi-vis uniform",
-			"description": "Special clothing with high visibility.",
-			"material": "Reflective fabric",
-			"color": "Yellow",
-			"season": "All Seasons"
-		},
-		"37": {
-			"title": "Engineer uniform",
-			"description": "For engineers and technical staff.",
-			"material": "Premium blended fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"38": {
-			"title": "Custom order 1",
-			"description": "Uniform produced according to customer requirements.",
-			"material": "Individual selection",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"39": {
-			"title": "Custom order 2",
-			"description": "Sewn based on a corporate order.",
-			"material": "Premium fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"40": {
-			"title": "Custom order 3",
-			"description": "Sewn based on an exclusive design.",
-			"material": "Premium fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"41": {
-			"title": "Coverall",
-			"description": "Coverall for manufacturing enterprises.",
-			"material": "Durable fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"42": {
-			"title": "Oil & gas uniform",
-			"description": "Special uniform for the oil and gas industry.",
-			"material": "Fire-resistant fabric",
-			"color": "Red",
-			"season": "All Seasons"
-		},
-		"43": {
-			"title": "Technician uniform",
-			"description": "For technical service specialists.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"44": {
-			"title": "Service staff uniform",
-			"description": "Professional uniform for service centers.",
-			"material": "Lightweight fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"45": {
-			"title": "Security guard uniform",
-			"description": "Special uniform for security services.",
-			"material": "Durable fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"46": {
-			"title": "Storage uniform",
-			"description": "Uniform for storage and logistics centers.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"47": {
-			"title": "Manufacturing uniform",
-			"description": "Uniform for large manufacturing enterprises.",
-			"material": "Cotton and polyester",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"48": {
-			"title": "Premium uniform",
-			"description": "Special uniform for the premium segment.",
-			"material": "Premium fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"49": {
-			"title": "Branded uniform",
-			"description": "Uniform produced with the company logo.",
-			"material": "Premium fabric",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
-		"50": {
-			"title": "Custom order 2",
-			"description": "Sewn based on a corporate order.",
-			"material": "Premium fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"51": {
-			"title": "Custom order 3",
-			"description": "Sewn based on an exclusive design.",
-			"material": "Premium fabric",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"52": {
-			"title": "Coverall",
-			"description": "Coverall for manufacturing enterprises.",
-			"material": "Durable fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"53": {
-			"title": "Oil & gas uniform",
-			"description": "Special uniform for the oil and gas industry.",
-			"material": "Fire-resistant fabric",
-			"color": "Red",
-			"season": "All Seasons"
-		},
-		"54": {
-			"title": "Technician uniform",
-			"description": "For technical service specialists.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"55": {
-			"title": "Service staff uniform",
-			"description": "Professional uniform for service centers.",
-			"material": "Lightweight fabric",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"56": {
-			"title": "Security guard uniform",
-			"description": "Special uniform for security services.",
-			"material": "Durable fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"57": {
-			"title": "Storage uniform",
-			"description": "Uniform for storage and logistics centers.",
-			"material": "Polyester",
-			"color": "Gray",
-			"season": "All Seasons"
-		},
-		"58": {
-			"title": "Manufacturing uniform",
-			"description": "Uniform for large manufacturing enterprises.",
-			"material": "Cotton and polyester",
-			"color": "Blue",
-			"season": "All Seasons"
-		},
-		"59": {
-			"title": "Premium uniform",
-			"description": "Special uniform for the premium segment.",
-			"material": "Premium fabric",
-			"color": "Black",
-			"season": "All Seasons"
-		},
-		"60": {
-			"title": "Branded uniform",
-			"description": "Uniform produced with the company logo.",
-			"material": "Premium fabric",
-			"color": "Dark blue",
-			"season": "All Seasons"
-		},
 		"labels": {
 			"material": "Fabric",
 			"season": "Season",
@@ -469,7 +545,8 @@
 			"winter": "Winter clothing",
 			"shoes": "Footwear",
 			"protection": "Protective equipment",
-			"mass": "Mass-produced clothing"
+			"mass": "Mass-produced clothing",
+			"kepka": "Kepka"
 		}
 	},
 	"about": {

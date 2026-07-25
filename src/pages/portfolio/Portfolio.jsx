@@ -22,7 +22,7 @@ function Portfolio() {
 			id: 3,
 			category: 'oyoq-kiyimlar',
 			title: 'shoes',
-			image: '/image/portfolio/summer/portfolio-summer-5.png',
+			image: '/image/portfolio/obuv/shoe_3x4.jpg',
 		},
 		{
 			id: 4,
@@ -32,6 +32,12 @@ function Portfolio() {
 		},
 		{
 			id: 5,
+			category: 'kepka',
+			title: 'kepka',
+			image: '/image/portfolio/kepka/cap32_white_bg.jpg',
+		},
+		{
+			id: 6,
 			category: 'ommaviy-kiyimlar',
 			title: 'mass',
 			image: '/image/portfolio/ommaviyKiymlar/Mass-produced-1.PNG',

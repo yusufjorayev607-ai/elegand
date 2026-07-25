@@ -55,7 +55,7 @@ function PortfolioPage() {
 				<div className='portfolio__page'>
 					{filteredPortfolio.map(item => (
 						<button
-							key={item.id}
+							key={item.slug}
 							onClick={() => setSelectedItem(item)}
 							className='portfolio__page-img-btn'
 						>
