@@ -14,8 +14,6 @@
 	transition: 0.3s;
 }
 
-/* Light */
-
 body[data-theme='light'] .scroll-top {
 	background: #8b6236;
 	color: white;
@@ -26,7 +24,6 @@ body[data-theme='light'] .scroll-top:hover {
 	transform: translateY(-5px);
 	background: #8b6236;
 }
-/* Dark */
 body[data-theme='dark'] .scroll-top {
 	background: #8b6236;
 	color: white;
@@ -36,7 +33,6 @@ body[data-theme='dark'] .scroll-top:hover {
 	transform: translateY(-5px);
 	background: #8b6236;
 }
-/* Mobile */
 @media (max-width: 768px) {
 	.scroll-top {
 		width: 46px;

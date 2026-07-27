@@ -58,12 +58,13 @@
 .about__info-btn:hover {
 	background-color: #8b6236;
 }
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
 	.about__info {
 		margin-top: 0;
 	}
 	.about__image-img {
-		width: 100%;
+		margin-top: 90px;
+		height: 500px;
 	}
 	.about__info-title {
 		font-size: 32px;
@@ -90,7 +91,8 @@
 		text-align: center;
 	}
 	.about__image-img {
-		width: 100%;
+		object-fit: contain;
+		height: 400px;
 	}
 	.about__info-btn {
 		width: 80%;

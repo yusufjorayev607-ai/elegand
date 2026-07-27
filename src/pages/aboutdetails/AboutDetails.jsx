@@ -13,7 +13,6 @@ function AboutDetails() {
 			<Baner />
 			<Values />
 			<WhyUs />
-			{/* <Production /> */}
 			<Testimonials />
 			<FAQ />
 		</>

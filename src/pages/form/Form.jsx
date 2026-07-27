@@ -23,7 +23,6 @@ const validPhone = p =>
 	/^998\d{9}$/.test(p.replace(/\s/g, '')) ||
 	/^\d{9}$/.test(p.replace(/\s/g, ''))
 
-/* ── Modal wrapper (export qilinadi, button uchun) ── */
 export function FormModal({ onClose }) {
 	useEffect(() => {
 		document.body.style.overflow = 'hidden'
@@ -44,7 +43,6 @@ export function FormModal({ onClose }) {
 	)
 }
 
-/* ── Inline versiya (footer uchun) ── */
 export default function Form() {
 	return (
 		<section className='kk'>
@@ -53,7 +51,6 @@ export default function Form() {
 	)
 }
 
-/* ── Asosiy forma logikasi ── */
 function FormInner({ onDone }) {
 	const { t } = useTranslation()
 	const PRODUCTS = [

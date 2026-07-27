@@ -5,8 +5,10 @@ import { useSearchParams } from 'react-router-dom'
 import { HashLink } from 'react-router-hash-link'
 import SEO from '../../components/SEO'
 import { useFetch } from '../../hooks/useFetch'
+import ErrorPage from '../error/ErrorPage'
 import Loading from '../loading/Loading'
 import PortfolioModal from './PortfolioModal'
+
 import './portfoliopage.css'
 
 function PortfolioPage() {
@@ -16,7 +18,7 @@ function PortfolioPage() {
 	const { t } = useTranslation()
 
 	if (isPending) return <Loading />
-	if (error) return <div className='error'>{error}</div>
+	if (error) return <ErrorPage />
 	if (!data) return null
 
 	const category = searchParams.get('category')

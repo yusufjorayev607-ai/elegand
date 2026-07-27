@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { useFetch } from '../../hooks/useFetch'
+import ErrorPage from '../error/ErrorPage'
 import Loading from '../loading/Loading'
 import './services.css'
 
@@ -8,7 +9,7 @@ function Services() {
 	const { data, isPending, error } = useFetch('/data/services.json')
 
 	if (isPending) return <Loading />
-	if (error) return <div className='error'>{error}</div>
+	if (error) return <ErrorPage />
 	if (!data) return null
 
 	return (

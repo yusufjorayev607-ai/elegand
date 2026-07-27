@@ -3,8 +3,6 @@
 	margin-right: 25px;
 }
 
-/* ---------- Button ---------- */
-
 .language__btn {
 	display: flex;
 	align-items: center;
@@ -40,14 +38,10 @@ body[data-theme='dark'] .language__btn:hover {
 	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
 }
 
-/* ---------- Arrow ---------- */
-
 .rotate {
 	transform: rotate(180deg);
 	transition: 0.25s;
 }
-
-/* ---------- Menu ---------- */
 
 .language__menu {
 	position: absolute;
@@ -70,8 +64,6 @@ body[data-theme='dark'] .language__menu {
 	background: #1f2937;
 	border-color: #374151;
 }
-
-/* ---------- Menu Item ---------- */
 
 .language__item {
 	width: 100%;
@@ -101,8 +93,6 @@ body[data-theme='dark'] .language__item {
 body[data-theme='dark'] .language__item:hover {
 	background: #374151;
 }
-
-/* ---------- Active ---------- */
 
 .language__item.active {
 	color: #2563eb;
