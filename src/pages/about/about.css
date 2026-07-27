@@ -9,6 +9,11 @@
 	margin-top: 56px;
 	width: 40%;
 }
+.about__image-img {
+	margin-top: 100px;
+	width: 500px;
+	object-fit: contain;
+}
 .about__label {
 	font-size: 22px;
 	color: #c47600;
@@ -63,8 +68,8 @@
 		margin-top: 0;
 	}
 	.about__image-img {
-		margin-top: 90px;
-		height: 500px;
+		margin-top: 30px;
+		width: 450px;
 	}
 	.about__info-title {
 		font-size: 32px;
@@ -84,6 +89,8 @@
 @media (max-width: 767px) {
 	.about {
 		flex-direction: column;
+		display: flex;
+		justify-content: center;
 	}
 	.about__info {
 		width: 100%;
@@ -91,8 +98,8 @@
 		text-align: center;
 	}
 	.about__image-img {
+		width: 100%;
 		object-fit: contain;
-		height: 400px;
 	}
 	.about__info-btn {
 		width: 80%;
