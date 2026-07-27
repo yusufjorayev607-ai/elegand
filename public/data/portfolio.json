@@ -79,6 +79,18 @@
 			"category": "sezon-yozgi",
 			"price": "150 000"
 		},
+		{
+			"slug": "sezon-yozgi-14",
+			"image": "/image/portfolio/summer/portfolio-summer-14.png",
+			"category": "sezon-yozgi",
+			"price": "150 000"
+		},
+		{
+			"slug": "sezon-yozgi-15",
+			"image": "/image/portfolio/summer/portfolio-summer-15.png",
+			"category": "sezon-yozgi",
+			"price": "150 000"
+		},
 		"sezon-qishki--------------------------------------------------------------------",
 		{
 			"slug": "sezon-qishki-1",
@@ -149,6 +161,24 @@
 		{
 			"slug": "sezon-qishki-12",
 			"image": "/image/portfolio/winter/Winter-12.jpg",
+			"category": "sezon-qishki",
+			"price": "150 000"
+		},
+		{
+			"slug": "sezon-qishki-13",
+			"image": "/image/portfolio/winter/Winter-13.png",
+			"category": "sezon-qishki",
+			"price": "150 000"
+		},
+		{
+			"slug": "sezon-qishki-14",
+			"image": "/image/portfolio/winter/Winter-14.png",
+			"category": "sezon-qishki",
+			"price": "150 000"
+		},
+		{
+			"slug": "sezon-qishki-15",
+			"image": "/image/portfolio/winter/Winter-15.png",
 			"category": "sezon-qishki",
 			"price": "150 000"
 		},

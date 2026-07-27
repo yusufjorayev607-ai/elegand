@@ -131,6 +131,20 @@
 			"color": "Qora",
 			"season": "Barcha mavsumlar"
 		},
+		"sezon-yozgi-14": {
+			"title": "Maxsus buyurtma 1",
+			"description": "Mijoz talabiga ko'ra ishlab chiqarilgan forma.",
+			"material": "Individual tanlov",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"sezon-yozgi-15": {
+			"title": "Maxsus buyurtma 1",
+			"description": "Mijoz talabiga ko'ra ishlab chiqarilgan forma.",
+			"material": "Individual tanlov",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
 		"sezon-qishki-1": {
 			"title": "Maxsus buyurtma 2",
 			"description": "Korporativ buyurtma asosida tikilgan.",
@@ -202,6 +216,34 @@
 			"season": "Barcha mavsumlar"
 		},
 		"sezon-qishki-11": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"sezon-qishki-12": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"sezon-qishki-13": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"sezon-qishki-14": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"sezon-qishki-15": {
 			"title": "Brendlangan forma",
 			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
 			"material": "Premium mato",
@@ -332,6 +374,41 @@
 			"color": "Qizil",
 			"season": "Barcha mavsumlar"
 		},
+		"oyoq-kiyimlar-19": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+		"oyoq-kiyimlar-20": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+		"oyoq-kiyimlar-21": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+		"oyoq-kiyimlar-22": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+		"oyoq-kiyimlar-23": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
 		"himoya-vositalari-1": {
 			"title": "Texnik xodim formasi",
 			"description": "Texnik xizmat ko'rsatish mutaxassislari uchun.",
@@ -452,6 +529,13 @@
 			"season": "Barcha mavsumlar"
 		},
 		"ommaviy-kiyimlar-12": {
+			"title": "Brendlangan forma",
+			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
+			"material": "Premium mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"ommaviy-kiyimlar-13": {
 			"title": "Brendlangan forma",
 			"description": "Kompaniya logotipi bilan ishlab chiqarilgan forma.",
 			"material": "Premium mato",

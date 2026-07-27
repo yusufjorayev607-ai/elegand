@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next'
-import { FaQuoteLeft, FaStar } from 'react-icons/fa'
+import { FaQuoteLeft } from 'react-icons/fa'
 import './testimonials.css'
 
 function Testimonials() {
@@ -19,14 +19,6 @@ function Testimonials() {
 				<div className='testimonials__grid'>
 					{testimonials.map(id => (
 						<div className='testimonial-card' key={id}>
-							<div className='testimonial-card__rating'>
-								<FaStar />
-								<FaStar />
-								<FaStar />
-								<FaStar />
-								<FaStar />
-							</div>
-
 							<p className='testimonial-card__text'>
 								<FaQuoteLeft className='testimonial-card__quote-icon' />
 								{t(`testimonials.items.${id}.text`)}

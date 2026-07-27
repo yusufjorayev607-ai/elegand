@@ -34,8 +34,9 @@ function About() {
 			</div>
 			<div className='about__image'>
 				<img
-					src='/image/partfolio.png'
+					src='/image/portfolio/winter/Winter-6.jpg'
 					alt={t('about.title')}
+					height={800}
 					className='about__image-img'
 				/>
 			</div>

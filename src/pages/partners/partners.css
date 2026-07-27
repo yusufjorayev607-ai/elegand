@@ -80,6 +80,9 @@ body[data-theme='dark'] .partners__img {
 }
 
 @media (max-width: 1200px) {
+	.partners__item:hover {
+		transform: none;
+	}
 	.partners {
 		gap: 30px;
 	}
