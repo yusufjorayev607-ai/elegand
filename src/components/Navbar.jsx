@@ -48,7 +48,7 @@ function Navbar() {
 							{t('header.contact')}
 						</HashLink>
 
-						<HashLink smooth to='/#portfolio' className='header__nav-link'>
+						<HashLink smooth to='/portfolio' className='header__nav-link'>
 							{t('header.portfolio')}
 						</HashLink>
 					</nav>

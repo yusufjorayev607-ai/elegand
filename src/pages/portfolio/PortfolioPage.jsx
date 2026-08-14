@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FaArrowLeft } from 'react-icons/fa'
-import { useSearchParams } from 'react-router-dom'
-import { HashLink } from 'react-router-hash-link'
+import { useNavigate, useSearchParams } from 'react-router-dom'
+
 import SEO from '../../components/SEO'
 import { useFetch } from '../../hooks/useFetch'
 import ErrorPage from '../error/ErrorPage'
@@ -13,12 +13,17 @@ import './portfoliopage.css'
 
 function PortfolioPage() {
 	const { data, isPending, error } = useFetch('/data/portfolio.json')
-	const [selectedItem, setSelectedItem] = useState(null)
+
+	const [selectedIndex, setSelectedIndex] = useState(null)
+
 	const [searchParams] = useSearchParams()
+	const navigate = useNavigate()
 	const { t } = useTranslation()
 
 	if (isPending) return <Loading />
+
 	if (error) return <ErrorPage />
+
 	if (!data) return null
 
 	const category = searchParams.get('category')
@@ -28,13 +33,38 @@ function PortfolioPage() {
 		? data.portfolio.filter(item => item.category === category)
 		: data.portfolio
 
-	if (selectedItem) {
-		return (
-			<PortfolioModal
-				item={selectedItem}
-				onClose={() => setSelectedItem(null)}
-			/>
-		)
+	const handleBack = () => {
+		navigate(-1)
+	}
+
+	const openModal = index => {
+		setSelectedIndex(index)
+	}
+
+	const closeModal = () => {
+		setSelectedIndex(null)
+	}
+
+	const goToPrevious = () => {
+		setSelectedIndex(prev => {
+			if (prev === null) return null
+			if (prev === 0) {
+				return filteredPortfolio.length - 1
+			}
+
+			return prev - 1
+		})
+	}
+
+	const goToNext = () => {
+		setSelectedIndex(prev => {
+			if (prev === null) return null
+			if (prev === filteredPortfolio.length - 1) {
+				return 0
+			}
+
+			return prev + 1
+		})
 	}
 
 	return (
@@ -43,22 +73,27 @@ function PortfolioPage() {
 
 			<section className='portfolio__page-wrapper container'>
 				<div className='portfolio__page-header'>
-					<h2 className='title'>{t(`portfolioPage.categories.${title}`)}</h2>
+					<h2 className='title'>
+						{title
+							? t(`portfolioPage.categories.${title}`)
+							: t('portfolioPage.categories.all')}
+					</h2>
 
-					<HashLink
-						to='/#portfolio'
-						smooth={true}
+					<button
+						type='button'
+						onClick={handleBack}
 						className='portfolio__page-headr-btn'
 					>
 						<FaArrowLeft />
-					</HashLink>
+					</button>
 				</div>
 
 				<div className='portfolio__page'>
-					{filteredPortfolio.map(item => (
+					{filteredPortfolio.map((item, index) => (
 						<button
 							key={item.slug}
-							onClick={() => setSelectedItem(item)}
+							type='button'
+							onClick={() => openModal(index)}
 							className='portfolio__page-img-btn'
 						>
 							<div className='portfolio__page-img-wrapper'>
@@ -68,20 +103,29 @@ function PortfolioPage() {
 									width={300}
 									className='portfolio__page-img'
 								/>
-
-								<span className='portfolio__page-price'>{item.price}</span>
 							</div>
 						</button>
 					))}
 				</div>
-				<HashLink
-					to='/#portfolio'
-					smooth={true}
+
+				<button
+					type='button'
+					onClick={handleBack}
 					className='portfolio__page-btn'
 				>
 					{t('portfolioPage.backBtn')}
-				</HashLink>
+				</button>
 			</section>
+
+			{selectedIndex !== null && (
+				<PortfolioModal
+					items={filteredPortfolio}
+					selectedIndex={selectedIndex}
+					onClose={closeModal}
+					onPrevious={goToPrevious}
+					onNext={goToNext}
+				/>
+			)}
 		</>
 	)
 }

@@ -1,7 +1,7 @@
 {
 	"partners": [
 		{
-			"name": "Artelaysel-energy",
+			"name": "aysel-energy",
 			"logo": "/image/partnors/aysel-energy-light.svg",
 			"logoDark": "/image/partnors/aysel-energy-darc.svg"
 		},
@@ -31,7 +31,7 @@
 			"logoDark": "/image/partnors/zmart.svg"
 		},
 		{
-			"name": "Rayal",
+			"name": "artel",
 			"logo": "/image/partnors/artel.png",
 			"logoDark": "/image/partnors/artel.png"
 		}

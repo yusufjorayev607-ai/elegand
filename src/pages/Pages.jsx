@@ -15,13 +15,13 @@ function Pages() {
 			<>
 				<Home />
 				<hr className='divider' />
-				<Partners />
-				<hr className='divider' />
 				<Services />
 				<hr className='divider' />
 				<Portfolio />
 				<hr className='divider' />
 				<About />
+				<hr className='divider' />
+				<Partners />
 				<hr className='divider' />
 				<Contact />
 				<hr className='divider' />

@@ -16,7 +16,7 @@ function Home() {
 					<button onClick={() => setShowForm(true)} className='hero__info-btn'>
 						{t('hero.orderBtn')}
 					</button>
-					<HashLink to='#portfolio' className='hero__info-btn'>
+					<HashLink to='/portfolio' className='hero__info-btn'>
 						{t('hero.portfolioBtn')}
 					</HashLink>
 				</div>
